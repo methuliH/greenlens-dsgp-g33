@@ -1,0 +1,210 @@
+﻿company,data_year,indicator_code,disclosure_status,value_numeric,unit,source_value_text,source_unit,measurement_basis,boundary,pdf_page,source_file,source_url,source_excerpt,verification_status,needs_review,extraction_method,note
+Orlen,2001,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,S-EMP,reported,17582,persons,17 582,persons,Number of employees (footnote 4 not in pack; year-end vs average not stated),Group,3,Orlen_undated_Annual_fb_gb_2001.pdf.coredownload.pdf,,Number of employees (4) (No) | 14 169 | 13 342 | 17 582,"LLM (Claude agent), not human-checked",1,llm_agent,Columns 1999|2000|2001 assumed in order (consistent with EPS row)
+Orlen,2001,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,S-LTIFR,unclear,,rate,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the pack for this year.
+Orlen,2001,FIN_REV,reported,25878,PLN m,25 878 million,PLN m,"Total sales revenues, PKN ORLEN Group, Polish accounting standards (PAS) basis",Group,11,Orlen_undated_Annual_fb_gb_2001.pdf.coredownload.pdf,,"Total sales revenues for PKN ORLEN Group on a PAS basis for 1999, 2000, 2001 were PLN 20 476 million, PLN 26 860 million and 25 878 million","LLM (Claude agent), not human-checked",1,llm_agent,IAS figure not shown separately in pack
+Orlen,2010,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,S-LTIFR,unclear,,rate,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2010,FIN_REV,unclear,,PLN m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,S-LTIFR,unclear,,rate,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2011,FIN_REV,unclear,,PLN m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (Polish sustainability report).
+Orlen,2019,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,S-LTIFR,unclear,,rate,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2019,FIN_REV,unclear,,PLN m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack (corporate governance report).
+Orlen,2020,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,S-LTIFR,unclear,,rate,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a strategy/green-financing brochure page.
+Orlen,2020,FIN_REV,unclear,,PLN m,,,,Group,6,Orlen_2020_Sustainability_Sustainable_ORLEN_The_Energy_Transition_Leader.pdf.coredownload.pdf,,With over PLN 120bn in revenue and a strong financial position,"LLM (Claude agent), not human-checked",1,llm_agent,"Strategy brochure states only 'over PLN 120bn in revenue' (approximate, year not specified)."
+Orlen,2021,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,S-LTIFR,unclear,,rate,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2021,FIN_REV,unclear,,PLN m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2022,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,S-LTIFR,unclear,,rate,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2022,FIN_REV,unclear,,PLN m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2023,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,S-LTIFR,unclear,,rate,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2023,FIN_REV,unclear,,PLN m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only a green bond allocation/impact report page.
+Orlen,2024,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,S-EMP,unclear,,persons,,,,Group,5,Orlen_2024_Sustainability_ORLEN Group Sustainability Strategy for 2024-2030.pdf,,"Employees | ca. 65,000","LLM (Claude agent), not human-checked",1,llm_agent,"Strategy document states 'ca. 65,000' employees; approximate, reference date unclear."
+Orlen,2024,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,S-LTIFR,unclear,,rate,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Pack has only the 2024-2030 strategy document; 2024 comparatives exist in the FY2025 report but are prior-year columns (ignored per spec).
+Orlen,2024,FIN_REV,unclear,,PLN m,,,,Group,5,Orlen_2024_Sustainability_ORLEN Group Sustainability Strategy for 2024-2030.pdf,,Revenue | PLN 277.6bn | CapEx | PLN 19.7bn,"LLM (Claude agent), not human-checked",1,llm_agent,"Strategy document states 'Revenue PLN 277.6bn' without a reference year (does not match FY2024 revenue of 294,886 in the FY2025 report); rounded."
+Orlen,2025,GHG_S1,reported,24157655.57,tCO2e,"24,157,655.57",tCO2e,"Scope 1, consolidated group (GHG Protocol)",Group,158,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,"Scope 1 ... Consolidated group for ORLEN Group accounting purposes | 24,157,655.57","LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,GHG_S2,reported,1663936.33,tCO2e,"1,663,936.33",tCO2e,Scope 2 location-based,Group,158,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,"Scope 2 location-based ... Consolidated group | 1,663,936.33","LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,GHG_S2_MB,reported,2605467.89,tCO2e,"2,605,467.89",tCO2e,Scope 2 market-based,Group,158,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,"Scope 2 market-based ... Consolidated group | 2,605,467.89","LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,GHG_S3,unclear,,tCO2e,,,,Group,158,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,Table 74 Scope 3 GHG emissions by category,"LLM (Claude agent), not human-checked",1,llm_agent,"Only Scope 3 categories in pack (e.g. cat. 11: 162,290,001.70 t); no total line (not added). Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025."
+Orlen,2025,EN_TOT,reported,312367402.8,GJ,"86,768,723",MWh,Total energy consumption; MWh x3.6,Group,156,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,"Total energy consumption (calculated as the sum of lines 6 and 11) | [MWh] | 86,768,723","LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,EN_ELEC,unclear,,kWh,,,,Group,156,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,"Consumption of purchased or acquired electricity, heat, steam, and cooling from fossil sources | 2,374,419","LLM (Claude agent), not human-checked",1,llm_agent,"Only purchased electricity, heat, steam and cooling combined (fossil 2,374,419 MWh; renewable 531,879 MWh); electricity alone not given. Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025."
+Orlen,2025,EN_REN_PCT,reported,3,%,3%,%,"Renewable share of total energy consumption (rounded; 2,416,950/86,768,723 MWh = 2.8%)",Group,156,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,Share of renewable sources in total energy consumption | [%] | 3%,"LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,WA_WD,reported,22516562685,m3,"22,516,562,685",m3,"Total water withdrawals, incl. water passed through hydroelectric power stations",Group,177,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,"Total water withdrawals | 22,516,562,685","LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,WA_CONS,reported,53471627,m3,"53,471,627",m3,Total water consumption as defined in ESRS E3 sustainability statement,Group,177,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,"Total water consumption | 53,471,627","LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,E-WST-GEN,reported,1095733.11,MT,"1,095,733.11",tonnes,Total waste generated,Group,201,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,"Total weight of waste generated (1+11+15) | 1,095,733.11","LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,E-WST-HAZ,reported,82536.59,MT,"82,536.59",tonnes,Total hazardous waste,Group,201,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,"Total weight of hazardous waste (2+11) | 82,536.59","LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,S-EMP,reported,66563,persons,"66,563",persons,Headcount at year end,Group,213,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,"Number of employees at the end of the reporting period ... Total | 66,563 | 67,809","LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,S-WOMEN-PCT,reported,27.49,%,"18,298 of 66,563",%,"Computed 18,298/66,563 x100 (year-end headcount)",Group,213,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,"Women | 18,298 | 18,856 ... Total | 66,563 | 67,809","LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,S-LTIFR,reported,0.93,rate,0.93,"per 1,000,000 hours","LTI rate incl. fatalities per 1,000,000 hours; employees and contractors total (0.19 per 200,000 h)",Group,216,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,"Employees and contractors total ... Rate of lost time injuries (LTI), including fatalities | number / 1 million man-hours worked | 0.93","LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,S-FATAL,reported,1,persons,1,persons,Employees and contractors total,Group,216,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,Employees and contractors total ... Number of individuals affected by fatal work-related injuries | number | 1,"LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,G-BOARD-SIZE,unclear,,persons,,,,Group,274,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,,"LLM (Claude agent), not human-checked",1,llm_agent,Only governance text on Supervisory/Management Board procedures; no member count. Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2025,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Not found in the pack (FY2025 Management Board report, undated block). "
+Orlen,2025,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Not found in the pack (FY2025 Management Board report, undated block). "
+Orlen,2025,FIN_REV,reported,267827,PLN m,"PLN 267,827 million",PLN m,Group revenue,Group,50,Orlen_undated_Sustainability_Management Board Report on the Operations of the ORLEN Group.pdf,,"The ORLEN Group's revenue for 2025 amounted to PLN 267,827 million","LLM (Claude agent), not human-checked",1,llm_agent,Taken from the pack's 'year unknown' block: undated Management Board Report whose tables state FY2025 (2025 column); assigned to 2025.
+Orlen,2026,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,S-LTIFR,unclear,,rate,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.
+Orlen,2026,FIN_REV,unclear,,PLN m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,No lines in the pack.

@@ -1,0 +1,40 @@
+# --- Reports and large data (never commit: size + copyright) ---
+*.pdf
+*.xlsx
+*.xls
+*.zip
+*.part
+data/reports/*
+!data/reports/.gitkeep
+data/cache/
+data/candidates/
+data/packs19/
+data/packs19_fu/
+data/reading_packs*/
+data/sources/failed_links.csv
+
+# --- Secrets ---
+.env
+*.env
+secrets*
+*credentials*.json
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

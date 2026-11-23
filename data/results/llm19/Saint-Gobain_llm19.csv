@@ -1,0 +1,20 @@
+﻿company,data_year,indicator_code,disclosure_status,value_numeric,unit,source_value_text,source_unit,measurement_basis,boundary,pdf_page,source_file,source_url,source_excerpt,verification_status,needs_review,extraction_method,note
+Saint-Gobain,2011,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,S-EMP,unclear,,persons,,,,Group,38,Saint-Gobain_2011_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",1,llm_agent,"Conflicting: CSR table 'Total headcount' 194,658 (2011) vs Note 31 'At December 31, 2011 ... total number of Group employees ... was 192,933'"
+Saint-Gobain,2011,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,S-LTIFR,unclear,,rate,,,,Group,38,Saint-Gobain_2011_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",1,llm_agent,Row '(including temporary staff)* | 6.3 | 5.1 | 7.5 | 6.3' has truncated label; frequency-rate definition and columns ambiguous
+Saint-Gobain,2011,S-FATAL,reported,3,persons,3,persons,Saint-Gobain employees only (contractors/temporary staff not included); columns 2010|2011,Group,38,Saint-Gobain_2011_annual-report_EN.pdf,,Number of workplace fatalities - Saint-Gobain employees | 2 | 3,"LLM (Claude agent), not human-checked",1,llm_agent,Employees only
+Saint-Gobain,2011,G-BOARD-SIZE,unclear,,persons,,,,Group,72,Saint-Gobain_2011_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",1,llm_agent,Board page lists mandates of individual directors only; no count
+Saint-Gobain,2011,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,Not found in reading pack
+Saint-Gobain,2011,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",1,llm_agent,No group sales figure in pack
