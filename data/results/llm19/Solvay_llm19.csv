@@ -1,0 +1,229 @@
+﻿company,data_year,indicator_code,disclosure_status,value_numeric,unit,source_value_text,source_unit,measurement_basis,boundary,pdf_page,source_file,source_url,source_excerpt,verification_status,needs_review,extraction_method,note
+Solvay,2011,GHG_S1,unclear,,tCO2e,,,,Group,33,Solvay_2011_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only Scope 1+2 CO2 combined and other Kyoto GHG; columns ambiguous
+Solvay,2011,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2011,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2011,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2011,EN_TOT,unclear,,GJ,,,,Group,89,Solvay_2011_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Total energy table (p89) appears to be Rhodia-only series
+Solvay,2011,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2011,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2011,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2011,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2011,E-WST-GEN,unclear,,MT,,,,Group,44,Solvay_2011_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only waste by destination, ambiguous columns; no total"
+Solvay,2011,E-WST-HAZ,unclear,,MT,,,,Group,44,Solvay_2011_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only hazardous waste by destination; no total
+Solvay,2011,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2011,S-WOMEN-PCT,unclear,,%,,,,Group,55,Solvay_2011_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Chart 'Women & men repartition' 78%|23%|77% ambiguous; 23% also = female managers
+Solvay,2011,S-LTIFR,reported,0.8,rate,0.8,per million hours,"Per 1,000,000 hours; employees + contractors, incl. Rhodia",Group,67,Solvay_2011_sustainability-report_EN.pdf,,LTAR for Solvay's personnel and contractors' personnel ... 0.8 (including Rhodia) in 2011,"LLM (Claude agent), not human-checked",1,llm_agent,"Rounded, from narrative"
+Solvay,2011,S-FATAL,reported,1,persons,accidental death ... of a person,count,Narrative; 2013 report table also gives 1 for 2011,Group,67,Solvay_2011_sustainability-report_EN.pdf,,"accidental death, in 2011, of a person working on a conveyor belt ... Okorusu (NA)","LLM (Claude agent), not human-checked",1,llm_agent,Coverage not fully stated (text truncated)
+Solvay,2011,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2011,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2011,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2011,FIN_REV,reported,12693,EUR m,12 693,EUR million,Pro forma net sales (incl. Rhodia full year),Group,29,Solvay_2011_sustainability-report_EN.pdf,,Solvay net sales - EUR million | 11 095 | 12 693,"LLM (Claude agent), not human-checked",1,llm_agent,Pro forma figure; IFRS consolidated includes only Rhodia Q4
+Solvay,2012,GHG_S1,unclear,,tCO2e,,,,Group,57,Solvay_2012_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only Scope 1+2 CO2 combined reported
+Solvay,2012,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2012,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2012,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2012,EN_TOT,unclear,,GJ,,,,Group,55,Solvay_2012_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,No absolute total in 2012 block (2013 report gives 222 PJ for 2012 as comparison)
+Solvay,2012,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2012,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2012,WA_WD,reported,736803000,m3,736 803,1000 m3,Total withdrawals incl. estuary and sea water,Solvay manufacturing perimeter under operational control,68,Solvay_2012_sustainability-report_EN.pdf,,Withdrawals - 1000 m3 ... Total | 785 062 | 833 854 | 736 803,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2012,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2012,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2012,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2012,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2012,S-WOMEN-PCT,unclear,,%,,,,Group,80,Solvay_2012_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Chart 74%|26%|74% ambiguous; later reports show ~20% for 2013
+Solvay,2012,S-LTIFR,reported,0.8,rate,0.8,per million hours,"Per 1,000,000 hours; employees + contractors",Group,91,Solvay_2012_sustainability-report_EN.pdf,,LTAR reached again a record low value of 0.8/year for the Group's employees and contractors,"LLM (Claude agent), not human-checked",1,llm_agent,"Rounded, from narrative"
+Solvay,2012,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2012,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2012,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2012,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2012,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2013,GHG_S1,unclear,,tCO2e,,,,Group,58,Solvay_2013_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only Scope 1+2 CO2 combined and other Kyoto GHG
+Solvay,2013,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2013,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2013,GHG_S3,unclear,,tCO2e,,,,Group,58,Solvay_2013_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only downstream transport (1 071 150 t CO2) reported; other Scope 3 not reported
+Solvay,2013,EN_TOT,reported,168000000,GJ,168,PJ,Low heating value; Solvay historical financial perimeter,Group,53,Solvay_2013_sustainability-report_EN.pdf,,Energy consumption ... Petajoules (Low heating value) | 142 | 160 | 227 | 222 | 168,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded PJ
+Solvay,2013,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2013,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2013,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2013,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2013,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2013,E-WST-HAZ,unclear,,MT,,,,Group,65,Solvay_2013_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only landfilled hazardous waste (13 210 t) given
+Solvay,2013,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2013,S-WOMEN-PCT,reported,20,%,20%,%,Headcount; Solvay financial perimeter incl. discontinued operations,Group,91,Solvay_2013_sustainability-report_EN.pdf,,The average proportion of 20% of female employees,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded narrative figure
+Solvay,2013,S-LTIFR,reported,0.81,rate,0.81,per million hours,"Per 1,000,000 hours; employees + contractors (employees only 0.72)",Group,85,Solvay_2013_sustainability-report_EN.pdf,,LTAR employees and contractors | 1.6 | 1.6 | 0.8 | 0.8 | 0.81,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2013,S-FATAL,reported,2,persons,2,count,Employees and contractors,Group,85,Solvay_2013_sustainability-report_EN.pdf,,Number of fatal accidents | 1 | 0 | 2,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2013,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2013,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2013,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2013,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2014,GHG_S1,reported,11400000,tCO2e,11.4,Mt CO2eq,Scope 1 Kyoto GHG,Group,61,Solvay_2014_sustainability-report_EN.pdf,,TOTAL GREENHOUSE GASES (KYOTO PROTOCOL) EMISSIONS MT CO2EQ | 10.7 | 11.1 | 11.4,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2014,GHG_S2,reported,3000000,tCO2e,3,MtCO2,"Single Scope 2 figure, basis (location/market) not stated; CO2 only",Group,61,Solvay_2014_sustainability-report_EN.pdf,,Indirect CO2 emissions (Scope 2) MtCO2 | 3.7 | 3.5 | 3,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2014,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2014,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2014,EN_TOT,reported,180000000,GJ,180,PJ,Low heating value; financial perimeter,Group,55,Solvay_2014_sustainability-report_EN.pdf,,Energy consumption (Petajoules Low Heating Value) | 179 | 181 | 180,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded PJ
+Solvay,2014,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2014,EN_REN_PCT,unclear,,%,,,,Group,55,Solvay_2014_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only renewable fuel 5.8 PJ given; no share stated
+Solvay,2014,WA_WD,unclear,,m3,,,,Group,58,Solvay_2014_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Intake table totals (657,621 | 628,501) do not map clearly to years"
+Solvay,2014,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2014,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2014,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2014,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2014,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2014,S-LTIFR,unclear,,rate,,,,Group,82,Solvay_2014_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,LTAR chart values unlabeled by year (2015 report gives 0.98 for 2014)
+Solvay,2014,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not in 2014 block (2015 report says two in 2014)
+Solvay,2014,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2014,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2014,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2014,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2015,GHG_S1,reported,11400000,tCO2e,11.4,Mt CO2eq,Scope 1 Kyoto GHG,Group,54,Solvay_2015_sustainability-report_EN.pdf,,TOTAL GREENHOUSE GASES EMISSIONS (SCOPE 1) | Mt CO2eq | 11.4 | 11.4 | 11.2 | 10.7,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2015,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2015,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2015,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2015,EN_TOT,reported,175000000,GJ,175,PJ,Low heating value,Group,48,Solvay_2015_sustainability-report_EN.pdf,,ENERGY CONSUMPTION (IN PETAJOULES LOW HEATING VALUE) ... Consumption in absolute | 175,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded PJ
+Solvay,2015,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2015,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2015,WA_WD,unclear,,m3,,,,Group,51,Solvay_2015_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Intake by source in Mm3, total truncated (not summed)"
+Solvay,2015,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2015,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2015,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2015,S-EMP,unclear,,persons,,,,Group,118,Solvay_2015_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only permanent employees (23,393) given"
+Solvay,2015,S-WOMEN-PCT,unclear,,%,,,,Group,118,Solvay_2015_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only women among permanent full-time (19%)
+Solvay,2015,S-LTIFR,reported,0.75,rate,0.75,per million hours,"Per 1,000,000 hours; employees, contractors and temporary workers",Group,118,Solvay_2015_sustainability-report_EN.pdf,,"Rate of accidents with lost time (LTAR) - Employees, contractors and temporary workers | 0.75","LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2015,S-FATAL,reported,0,persons,No fatal accidents,count,Employees and contractors on sites,Group,80,Solvay_2015_sustainability-report_EN.pdf,,"No fatal accidents have occurred in 2015, compared to two in 2014","LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2015,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2015,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2015,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2015,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2016,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2016,GHG_S2,reported,2300000,tCO2e,2.3,Mt CO2,"Location-based, CO2",Group,45,Solvay_2016_sustainability-report_EN.pdf,,Gross location-based indirect Greenhouse gas emissions | 2.3 | 3.0,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2016,GHG_S2_MB,reported,2500000,tCO2e,2.5,Mt CO2,"Market-based, CO2",Group,45,Solvay_2016_sustainability-report_EN.pdf,,Gross market-based indirect Greenhouse gas emissions | 2.5 | 2.8,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2016,GHG_S3,unclear,,tCO2e,,,,Group,45,Solvay_2016_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only categories 9 and 15 given
+Solvay,2016,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2016,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2016,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2016,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2016,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2016,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2016,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2016,S-EMP,reported,27030,persons,"27,030",Headcount,Headcount,Group,19,Solvay_2016_sustainability-report_EN.pdf,,"Total Headcount | Headcount | 27,030 | 26,350 | 25.909 | 27,146","LLM (Claude agent), not human-checked",1,llm_agent,Column year inferred from header order
+Solvay,2016,S-WOMEN-PCT,reported,23,%,23,%,Headcount,Group,19,Solvay_2016_sustainability-report_EN.pdf,,Percentage of women | % | 23 | 22 | 22 | 20,"LLM (Claude agent), not human-checked",1,llm_agent,Column year inferred
+Solvay,2016,S-LTIFR,unclear,,rate,,,,Group,19,Solvay_2016_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only MTAR given in 2016 block
+Solvay,2016,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2016,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2016,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2016,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2016,FIN_REV,unclear,,EUR m,,,,Group,17,Solvay_2016_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Conflicting revenue figures (11,506 economic value vs 11,403 HCROI total revenues), columns unlabeled"
+Solvay,2017,GHG_S1,reported,10200000,tCO2e,10.2,Mt CO2 eq.,Scope 1,Group,114,Solvay_2017_sustainability-report_EN.pdf,,Total direct greenhouse gas emissions (Scope 1) | Mt CO2 eq. | 10.2 | 10.9 | 11.4,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2017,GHG_S2,reported,2100000,tCO2e,2.1,Mt CO2,"Location-based, CO2",Group,114,Solvay_2017_sustainability-report_EN.pdf,,Total indirect greenhouse gas emissions – Gross location-based (Scope 2) | Mt CO2. | 2.1,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2017,GHG_S2_MB,reported,2100000,tCO2e,2.1,Mt CO2,"Market-based, CO2",Group,114,Solvay_2017_sustainability-report_EN.pdf,,Total indirect greenhouse gas emissions – Gross market-based (Scope 2) | Mt CO2. | 2.1,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2017,GHG_S3,unclear,,tCO2e,,,,Group,114,Solvay_2017_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only selected categories given
+Solvay,2017,EN_TOT,reported,130000000,GJ,130,PJ,"Primary energy, low heating value",Group,149,Solvay_2017_sustainability-report_EN.pdf,,Primary energy consumption | 130 | 138 | 175,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded PJ
+Solvay,2017,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2017,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2017,WA_WD,unclear,,m3,,,,Group,115,Solvay_2017_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only freshwater withdrawal (328 Mm3) given
+Solvay,2017,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2017,E-WST-GEN,reported,1745000,MT,"1,745","1,000 metric tons",Industrial waste (hazardous + non-hazardous) as reported; excludes mining,Group,156,Solvay_2017_sustainability-report_EN.pdf,,"Total industrial waste | 1,745 | 1,657 | 1,655","LLM (Claude agent), not human-checked",1,llm_agent,Rounded kt
+Solvay,2017,E-WST-HAZ,reported,101700,MT,101.7,"1,000 metric tons",Industrial hazardous waste,Group,156,Solvay_2017_sustainability-report_EN.pdf,,Hazardous industrial waste | 101.7 | 194.2 | 202.0,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2017,S-EMP,reported,24459,persons,"24,459",Headcount,Headcount,Group,116,Solvay_2017_sustainability-report_EN.pdf,,"Total Headcount | Headcount | 24,459 | 27,030","LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2017,S-WOMEN-PCT,reported,23,%,23,%,Headcount,Group,116,Solvay_2017_sustainability-report_EN.pdf,,Percentage of women in the Group | % | 23 | 23,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2017,S-LTIFR,reported,0.65,rate,0.65,per million hours,"Per 1,000,000 hours; employees + contractors",Group,114,Solvay_2017_sustainability-report_EN.pdf,,Lost Time Accident Rate for Solvay employees and contractors (LTAR) ... | 0.65,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2017,S-FATAL,reported,1,persons,1,Number,Employees and contractors,Group,114,Solvay_2017_sustainability-report_EN.pdf,,Fatal accidents of Solvay employees and contractors | Number | 1 | 1 | 0,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2017,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2017,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2017,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2017,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2018,GHG_S1,reported,10350000,tCO2e,10.35,Mt CO2 eq.,Scope 1,Group,94,Solvay_2018_sustainability-report_EN.pdf,,Total direct greenhouse gas emissions (Scope 1) | Mt CO2 eq. | 10.35,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2018,GHG_S2,reported,2000000,tCO2e,2.0,Mt CO2,"Location-based, CO2",Group,94,Solvay_2018_sustainability-report_EN.pdf,,Total indirect CO2 emissions – Gross location-based (Scope 2) | Mt CO2 | 2.0,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2018,GHG_S2_MB,reported,1900000,tCO2e,1.9,Mt CO2,"Market-based, CO2",Group,94,Solvay_2018_sustainability-report_EN.pdf,,Total indirect CO2 emissions – Gross market-based (Scope 2) | Mt CO2 | 1.9,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2018,GHG_S3,unclear,,tCO2e,,,,Group,94,Solvay_2018_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only selected categories given
+Solvay,2018,EN_TOT,reported,127000000,GJ,127,PJ,"Primary energy, low heating value",Group,119,Solvay_2018_sustainability-report_EN.pdf,,Primary energy consumption | 127 | 130 | 138,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded PJ
+Solvay,2018,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2018,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2018,WA_WD,reported,488000000,m3,488,million m3,Total water intake,Group,124,Solvay_2018_sustainability-report_EN.pdf,,the Group's total water intake increased to 488 million m3,"LLM (Claude agent), not human-checked",1,llm_agent,"Narrative, rounded"
+Solvay,2018,WA_CONS,unclear,,m3,,,,Group,124,Solvay_2018_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Intake 488 minus discharge 455 (33) conflicts with stated evaporation 19 Mm3
+Solvay,2018,E-WST-GEN,unclear,,MT,,,,Group,96,Solvay_2018_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Waste row truncated (1,652 | 1,647 | 1,816 unlabeled)"
+Solvay,2018,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2018,S-EMP,reported,24501,persons,"24,501",Headcount,Headcount,Group,97,Solvay_2018_sustainability-report_EN.pdf,,"Total Headcount | Headcount | 24,501 | 24,459","LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2018,S-WOMEN-PCT,reported,23,%,23,%,Headcount,Group,97,Solvay_2018_sustainability-report_EN.pdf,,Percentage of women in the Group | % | 23,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2018,S-LTIFR,reported,0.65,rate,0.65,per million hours,"Per 1,000,000 hours; employees + contractors",Group,95,Solvay_2018_sustainability-report_EN.pdf,,Lost Time Accident Rate for Solvay employees and contractors (LTAR) ... | 0.65 | 0.65,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2018,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2018,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2018,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2018,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2018,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2019,GHG_S1,reported,10590000,tCO2e,10.59,Mt CO2 eq.,Scope 1,Group,175,Solvay_2019_sustainability-report_EN.pdf,,Total direct greenhouse gas emissions (Scope 1) | Mt CO2 eq. | 10.59,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2019,GHG_S2,reported,1500000,tCO2e,1.5,Mt CO2,"Location-based, CO2",Group,175,Solvay_2019_sustainability-report_EN.pdf,,Total indirect CO2 emissions – Gross location-based (Scope 2) | Mt CO2 | 1.5,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2019,GHG_S2_MB,reported,1400000,tCO2e,1.4,Mt CO2,"Market-based, CO2",Group,175,Solvay_2019_sustainability-report_EN.pdf,,Total indirect CO2 emissions – Gross market-based (Scope 2) | Mt CO2 | 1.4,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2019,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2019,EN_TOT,reported,123000000,GJ,123,PJ,"Primary energy, low heating value",Group,212,Solvay_2019_sustainability-report_EN.pdf,,Primary energy consumption | 123 | 127 | 130,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded PJ
+Solvay,2019,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2019,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2019,WA_WD,unclear,,m3,,,,Group,217,Solvay_2019_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only freshwater withdrawal (330 Mm3) given
+Solvay,2019,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2019,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2019,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2019,S-EMP,reported,24155,persons,"24,155",Headcount,Headcount,Group,178,Solvay_2019_sustainability-report_EN.pdf,,"Total headcount | Headcount | 24,155 | 24,501","LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2019,S-WOMEN-PCT,reported,23,%,23,%,Headcount,Group,178,Solvay_2019_sustainability-report_EN.pdf,,Percentage of women in the Group | % | 23,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2019,S-LTIFR,reported,0.66,rate,0.66,per million hours,"Per 1,000,000 hours; employees + contractors",Group,176,Solvay_2019_sustainability-report_EN.pdf,,Lost Time Accident Rate for Solvay employees and contractors (LTAR) ... | 0.66,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2019,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2019,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2019,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2019,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2019,FIN_REV,unclear,,EUR m,,,,Group,165,Solvay_2019_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only segment net sales (Advanced Materials 4,512) in pack"
+Solvay,2021,GHG_S1,reported,9590000,tCO2e,9.59,Mt CO2eq.,Scope 1,Group,170,Solvay_2021_sustainability-report_EN.pdf,,Total direct emissions | Mt CO2eq. | 9.59 | 8.89 | 10.59,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2021,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2021,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2021,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2021,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2021,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2021,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2021,WA_WD,unclear,,m3,,,,Group,181,Solvay_2021_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Water balance TOTAL 515.5 Mm3 ambiguous (withdrawal sources sum to 516.2)
+Solvay,2021,WA_CONS,reported,43300000,m3,43.3,Million cubic meters,"Freshwater consumption, all areas (equals 'All losses' 43.3 in water balance)",Group,181,Solvay_2021_sustainability-report_EN.pdf,,Freshwater consumption (Million cubic meter) | 11.6 | 31.7 | 43.3,"LLM (Claude agent), not human-checked",1,llm_agent,Freshwater only
+Solvay,2021,E-WST-GEN,reported,1390800,MT,"1,316 + 74.8","1,000 tons","Sum of non-hazardous (1,316 kt) and hazardous (74.8 kt) industrial waste group totals",Group,182,Solvay_2021_sustainability-report_EN.pdf,,"Non-hazardous industrial waste | 1,316 ... Hazardous industrial waste | 74.8","LLM (Claude agent), not human-checked",1,llm_agent,Computed sum; total row truncated
+Solvay,2021,E-WST-HAZ,reported,74800,MT,74.8,"1,000 tons",Industrial hazardous waste,Group,182,Solvay_2021_sustainability-report_EN.pdf,,"Hazardous industrial waste | 1,000 tons* | 74.8 | 71.6 | 86.6","LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2021,S-EMP,reported,21606,persons,"21,606",Number,Headcount,Group,191,Solvay_2021_sustainability-report_EN.pdf,,"Total headcount | Number | 21,606 | 23,663 | 24,155","LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2021,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2021,S-LTIFR,reported,0.2,rate,0.20,"per 200,000 hours","Per 200,000 hours; employees only (new metric)",Group,185,Solvay_2021_sustainability-report_EN.pdf,,"LTIIR - Employees | Accidents per 200,000 hours worked | 0.20","LLM (Claude agent), not human-checked",1,llm_agent,Basis changed from per 1m hours
+Solvay,2021,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2021,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2021,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2021,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2021,FIN_REV,unclear,,EUR m,,,,Group,83,Solvay_2021_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only segment net sales (3,838) in pack"
+Solvay,2022,GHG_S1,reported,9270000,tCO2e,9.27,Mt CO2eq,Scope 1,Group,208,Solvay_2022_sustainability-report_EN.pdf,,Total direct emissions | Mt CO2eq | 9.27 | 9.59 | 8.89,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2022,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2022,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2022,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2022,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2022,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2022,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2022,WA_WD,reported,537000000,m3,537,Million cubic meter,Sum of freshwater and non-freshwater,Group,226,Solvay_2022_sustainability-report_EN.pdf,,Total water withdrawal** | Million cubic meter | 537,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2022,WA_CONS,reported,36000000,m3,36,Million cubic meters,"Freshwater consumption, all areas",Group,226,Solvay_2022_sustainability-report_EN.pdf,,Freshwater consumption | Million cubic meters | 6.6* | 29.4 | 36,"LLM (Claude agent), not human-checked",1,llm_agent,Freshwater only
+Solvay,2022,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2022,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2022,S-EMP,reported,22047,persons,"22,047",Number,Headcount,Group,236,Solvay_2022_sustainability-report_EN.pdf,,"Total headcount | Number | 22,047 | 21,606","LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2022,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2022,S-LTIFR,reported,0.16,rate,0.16,"per 200,000 hours","Per 200,000 hours; employees only",Group,229,Solvay_2022_sustainability-report_EN.pdf,,"LTIIR - Employees | Accidents per 200,000 hours worked | 0.16","LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2022,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2022,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2022,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2022,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2022,FIN_REV,unclear,,EUR m,,,,Group,105,Solvay_2022_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only segment net sales (4,846) in pack"
+Solvay,2023,GHG_S1,reported,6620000,tCO2e,6.62,Mt CO2eq,Scope 1,Group,193,Solvay_2023_sustainability-report_EN.pdf,,Total direct emissions | Mt CO2eq | 6.62 | 7.80 | 8.12,"LLM (Claude agent), not human-checked",0,llm_agent,Post Syensqo spin-off scope (2022 restated to 7.80)
+Solvay,2023,GHG_S2,reported,700000,tCO2e,0.7,Mt CO2,"Location-based, CO2",Group,193,Solvay_2023_sustainability-report_EN.pdf,,Total indirect CO2 – gross location-based | Mt CO2 | 0.7,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2023,GHG_S2_MB,reported,600000,tCO2e,0.6,Mt CO2,"Market-based, CO2",Group,193,Solvay_2023_sustainability-report_EN.pdf,,Total indirect CO2 – gross market-based | Mt CO2 | 0.6,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded Mt
+Solvay,2023,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2023,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2023,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2023,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2023,WA_WD,reported,318000000,m3,318,Million cubic meters,Sum of freshwater and non-freshwater,Group,200,Solvay_2023_sustainability-report_EN.pdf,,Total water withdrawal* | Million cubic meters | 318 | 349,"LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2023,WA_CONS,reported,26000000,m3,26,Million cubic meters,"Freshwater consumption, all areas",Group,200,Solvay_2023_sustainability-report_EN.pdf,,Freshwater consumption | Million cubic meters | 5 | 21 | 26,"LLM (Claude agent), not human-checked",1,llm_agent,Freshwater only
+Solvay,2023,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2023,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2023,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2023,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2023,S-LTIFR,reported,0.17,rate,0.17,"per 200,000 hours","Per 200,000 hours; employees only",Group,210,Solvay_2023_sustainability-report_EN.pdf,,"LTIIR – Employees | Accidents per 200,000 hours worked | 0.17","LLM (Claude agent), not human-checked",0,llm_agent,
+Solvay,2023,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2023,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2023,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2023,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Solvay,2023,FIN_REV,unclear,,EUR m,,,,Group,78,Solvay_2023_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only segment net sales (Basic Chemicals 2,726) in pack"

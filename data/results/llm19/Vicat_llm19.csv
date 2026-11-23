@@ -1,0 +1,305 @@
+﻿company,data_year,indicator_code,disclosure_status,value_numeric,unit,source_value_text,source_unit,measurement_basis,boundary,pdf_page,source_file,source_url,source_excerpt,verification_status,needs_review,extraction_method,note
+Vicat,2010,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2010,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2010,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2010,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2010,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2010,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2010,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2010,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2010,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2010,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2010,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2010,S-EMP,reported,7040,persons,"7,040",employees,average workforce (not year-end headcount),Group,115,Vicat_2010_URD_EN.pdf,,"Breakdown of the Group's average workforce by business | Total | 7,040","LLM (Claude agent), not human-checked",1,llm_agent,Only average workforce given
+Vicat,2010,S-WOMEN-PCT,reported,10.7,%,10.7,%,,Group,115,Vicat_2010_URD_EN.pdf,,Workforce by gender (% of female employees) | Group total | 10.7,"LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2010,S-LTIFR,unclear,,rate,,,,Group,118,Vicat_2010_URD_EN.pdf,,Frequency rate | 9.0 | 9.5 | 13.2 | 13.6,"LLM (Claude agent), not human-checked",0,llm_agent,Frequency rate row 9.0 | 9.5 | 13.2 | 13.6 has truncated headers; scope unclear (2011 URD gives Group 2010 = 18.1)
+Vicat,2010,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2010,G-BOARD-SIZE,reported,10,persons,ten directors,directors,"Board of Directors, as at registration date of document (early 2011)",Group,98,Vicat_2010_URD_EN.pdf,,"the Company has ten directors, including six independent directors","LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2010,G-BOARD-IND-PCT,reported,60.0,%,six independent of ten,directors,Computed 6/10 x100; as at registration date,Group,98,Vicat_2010_URD_EN.pdf,,"the Company has ten directors, including six independent directors","LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2010,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2010,FIN_REV,unclear,,EUR m,,,,Group,174,Vicat_2010_URD_EN.pdf,,"Net sales | 444,001 (in thousands of euros, parent company)","LLM (Claude agent), not human-checked",0,llm_agent,"Only parent-company (Vicat SA) net sales in thousands EUR in pack; group figure (2,014 per 2012 URD) not in own documents"
+Vicat,2011,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2011,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2011,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2011,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2011,EN_TOT,unclear,,GJ,,,,Group,64,Vicat_2011_URD_EN.pdf,,"Energy consumed (GJoule) | 47,411,028 | 44,794,065","LLM (Claude agent), not human-checked",0,llm_agent,"Energy consumed 47,411,028 GJ appears to be cement-business fuels only; group scope unclear"
+Vicat,2011,EN_ELEC,unclear,,kWh,,,,Group,64,Vicat_2011_URD_EN.pdf,,"Total electricity consumption (MWH) | 1,731,412 | 74,641","LLM (Claude agent), not human-checked",0,llm_agent,"Electricity given only by business (Cement 1,731,412 MWh; Concrete & Aggregates 74,641 MWh); no group total"
+Vicat,2011,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2011,WA_WD,unclear,,m3,,,,Group,66,Vicat_2011_URD_EN.pdf,,Totale water consumption (millions of m3) | 11.4 | 10.4,"LLM (Claude agent), not human-checked",0,llm_agent,"Water given only by business (Cement 11.4, Concrete & Aggregates 10.4 million m3); no group total"
+Vicat,2011,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2011,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2011,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2011,S-EMP,reported,7387,persons,"7,387",employees,average workforce (not year-end headcount),Group,111,Vicat_2011_URD_EN.pdf,,"Breakdown of the Group's average workforce by business | Total | 7,387","LLM (Claude agent), not human-checked",1,llm_agent,Only average workforce given
+Vicat,2011,S-WOMEN-PCT,reported,10.8,%,10.8,%,,Group,111,Vicat_2011_URD_EN.pdf,,(% of female employees) | Group total | 10.8,"LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2011,S-LTIFR,reported,14.4,rate,14.4,rate,"Group employees; basis not stated in pack (French frequency-rate convention: lost-time accidents per 1,000,000 hours)",Group,115,Vicat_2011_URD_EN.pdf,,Total for the Group | Frequency rate | 7.3 | 9.0 | 14.4 | 18.1,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2011,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2011,G-BOARD-SIZE,reported,10,persons,10 members,directors,Board of Directors at 31 Dec 2011,Group,199,Vicat_2011_URD_EN.pdf,,"As at December 31, 2011, the Board of Directors consisted of 10 members","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2011,G-BOARD-IND-PCT,reported,60.0,%,six independent directors of 10,directors,Computed 6/10 x100,Group,199,Vicat_2011_URD_EN.pdf,,"As at December 31, 2011, the Board of Directors included among its members six independent directors","LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2011,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2011,FIN_REV,unclear,,EUR m,,,,Group,172,Vicat_2011_URD_EN.pdf,,"Net sales | 484,697 (in thousands of euros, parent company)","LLM (Claude agent), not human-checked",0,llm_agent,"Only parent-company net sales in pack; group figure (2,265 per 2012 URD) not in own documents"
+Vicat,2012,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2012,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2012,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2012,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2012,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2012,EN_ELEC,reported,2007000000,kWh,"2,007",GWh,Electricity consumption all production sites; rounded GWh,Group,216,Vicat_2012_URD_EN.pdf,,"... batching plants, paper mills and pre-cast concrete plants) was 2,007 GWh or 7,225 TJ","LLM (Claude agent), not human-checked",1,llm_agent,"Sentence truncated in pack; 2013 URD table gives 2,007,422 MWh"
+Vicat,2012,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2012,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2012,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2012,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2012,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2012,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Year-end headcount not in 2012 pack (2013 URD gives 7,685 at 31 Dec 2012)"
+Vicat,2012,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2012,S-LTIFR,reported,13.3,rate,13.3,rate,"Group employees; basis not stated in pack (French frequency-rate convention: lost-time accidents per 1,000,000 hours)",Group,224,Vicat_2012_URD_EN.pdf,,Frequency rate | 13.3 | 14.4 | - 8,"LLM (Claude agent), not human-checked",1,llm_agent,Table header truncated; 2011 comparative 14.4 matches Group total
+Vicat,2012,S-FATAL,unclear,,persons,,,,Group,224,Vicat_2012_URD_EN.pdf,,Cement Group | Number of fatal accidents | 0 | 2,"LLM (Claude agent), not human-checked",0,llm_agent,Fatal accidents given only for Cement Group (0) and France; no group total
+Vicat,2012,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2012,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2012,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2012,FIN_REV,reported,2292,EUR m,2 292,EUR m,Consolidated net sales,Group,10,Vicat_2012_URD_EN.pdf,,Consolidated net sales | 2 292 | 2 265 | 2 014 (in millions of euros),"LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2013,GHG_S1,unclear,,tCO2e,,,,Group,81,Vicat_2013_URD_EN.pdf,,"Total CO2 (direct and indirect) | 12,412 | 39 | 10 | 12,461","LLM (Claude agent), not human-checked",0,llm_agent,"Only combined direct+indirect CO2 given (12,461 kt)"
+Vicat,2013,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2013,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2013,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2013,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2013,EN_ELEC,reported,2011262000,kWh,2 011 262,MWh,Electricity consumption all production sites,Group,83,Vicat_2013_URD_EN.pdf,,(in MWh) | 2013 | 2012 | ... | TOTAL | 2 011 262 | 2 007 422,"LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2013,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2013,WA_WD,unclear,,m3,,,,Group,82,Vicat_2013_URD_EN.pdf,,"Total water requirement (in thousand of m3) | 20,419 | 10,875 | 2,019 | 1,842","LLM (Claude agent), not human-checked",0,llm_agent,Water requirement given only by business; no group total
+Vicat,2013,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2013,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2013,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2013,S-EMP,reported,7712,persons,"7,712",employees,Headcount at 31 Dec,Group,70,Vicat_2013_URD_EN.pdf,,"The Group's workforce as at December 31, 2013 increased to 7,712","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2013,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2013,S-LTIFR,reported,14.8,rate,14.8,rate,"Group employees; basis not stated in pack (French frequency-rate convention: lost-time accidents per 1,000,000 hours)",Group,66,Vicat_2013_URD_EN.pdf,,Frequency rate | 14.8 | 13.3 | + 11 %,"LLM (Claude agent), not human-checked",1,llm_agent,Table header truncated; confirmed as Group employees by 2014 URD
+Vicat,2013,S-FATAL,unclear,,persons,,,,Group,66,Vicat_2013_URD_EN.pdf,,Cement Group | Number of fatal accidents | 1 | 0,"LLM (Claude agent), not human-checked",0,llm_agent,Fatal accidents shown only for Cement Group (1)
+Vicat,2013,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2013,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2013,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2013,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2014,GHG_S1,unclear,,tCO2e,,,,Group,84,Vicat_2014_URD_EN.pdf,,"Total direct and indirect CO2 emissions (in thousands of tonnes) | 14,062 | 48 | 7 | 14,117","LLM (Claude agent), not human-checked",0,llm_agent,"Only cement-kiln gross CO2 and combined direct+indirect (14,117 kt) given"
+Vicat,2014,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2014,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2014,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2014,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2014,EN_ELEC,reported,2147000000,kWh,"2,147",GWh,Electricity consumption all production sites,Group,88,Vicat_2014_URD_EN.pdf,,"Electricity consumption by the Group's production sites in 2014 (in GWh) | TOTAL | 2,147 | 2,011","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2014,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2014,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2014,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2014,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2014,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2014,S-EMP,reported,7854,persons,"7,854",employees,Headcount at 31 Dec,Group,76,Vicat_2014_URD_EN.pdf,,"(number of employees) ... TOTAL | 7,854 (as at December 31, 2014)","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2014,S-WOMEN-PCT,reported,11.2,%,11.2,%,,Group,76,Vicat_2014_URD_EN.pdf,,Female employees as a percentage of the Group's total workforce | TOTAL | 11.2 | 10.7,"LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2014,S-LTIFR,reported,11.3,rate,11. 3,rate,"Group employees; basis not stated in pack (French frequency-rate convention: lost-time accidents per 1,000,000 hours)",Group,88,Vicat_2014_URD_EN.pdf,,Frequency rate (employees) | 11. 3 | 14.8,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2014,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2014,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2014,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2014,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2014,FIN_REV,unclear,,EUR m,,,,Group,48,Vicat_2014_URD_EN.pdf,,Consolidated net sales | France | ... | 831,"LLM (Claude agent), not human-checked",0,llm_agent,Segment table truncated; group consolidated total not visible
+Vicat,2015,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2015,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2015,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2015,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2015,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2015,EN_ELEC,reported,2139000000,kWh,"2,139",GWh,Electricity consumption all business segments,Group,95,Vicat_2015_URD_EN.pdf,,"Total electricity consumption (in GWh) by business segment: | Total | 2,139 | 2,147 | 2,011","LLM (Claude agent), not human-checked",0,llm_agent,"2016 URD restates 2015 as 2,146 GWh"
+Vicat,2015,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2015,WA_WD,unclear,,m3,,,,Group,71,Vicat_2015_URD_EN.pdf,,"Total water requirement (in thousands of m3) | 24,223 | 16,647 | 2,065 | 1,948","LLM (Claude agent), not human-checked",0,llm_agent,Water requirement given only by business; no group total
+Vicat,2015,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2015,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2015,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2015,S-EMP,reported,7928,persons,"7,928",employees,Headcount at 31 Dec,Group,81,Vicat_2015_URD_EN.pdf,,"Change in workforce at December 31, by geographic area | TOTAL | 7,928 | 7,854","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2015,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2015,S-LTIFR,reported,9.3,rate,9.3,rate,"Group employees; basis not stated in pack (French frequency-rate convention: lost-time accidents per 1,000,000 hours)",Group,83,Vicat_2015_URD_EN.pdf,,For the Group employees | Frequency rate | 9.3 | 11.3,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2015,S-FATAL,reported,1,persons,1,persons,Group employees only (contractors not covered),Group,83,Vicat_2015_URD_EN.pdf,,Number of fatal accidents among Group employees | 1 | 1,"LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2015,G-BOARD-SIZE,reported,10,persons,ten,directors,Board of Directors at 31 Dec 2015,Group,120,Vicat_2015_URD_EN.pdf,,"At December 31, 2015, the Board of Directors comprised ten","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2015,G-BOARD-IND-PCT,reported,60.0,%,six independent of ten,directors,Computed 6/10 x100,Group,120,Vicat_2015_URD_EN.pdf,,"At December 31, 2015, the Board of Directors included six independent","LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2015,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2015,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2016,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2016,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2016,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2016,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2016,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2016,EN_ELEC,reported,2332000000,kWh,"2,332",GWh,Electricity consumption all production sites,Group,76,Vicat_2016_URD_EN.pdf,,"Electricity consumption by the Group's production sites in 2016 (in GWh) | TOTAL | 2,332 | 2,146 | 2,147","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2016,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2016,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2016,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2016,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2016,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2016,S-EMP,reported,8101,persons,"8,101",employees,Headcount at 31 Dec,Group,81,Vicat_2016_URD_EN.pdf,,"Breakdown of the workforce as at December 31, 2016 by category and business | TOTAL | ... | 8,101","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2016,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2016,S-LTIFR,reported,8.5,rate,8.5,rate,"Group employees; basis not stated in pack (French frequency-rate convention: lost-time accidents per 1,000,000 hours)",Group,86,Vicat_2016_URD_EN.pdf,,For the Group employees | Frequency rate | 8.5 | 9.3,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2016,S-FATAL,reported,1,persons,1,persons,Group employees only,Group,86,Vicat_2016_URD_EN.pdf,,Number of fatal accidents among Group employees | 1 | 1,"LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2016,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2016,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2016,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2016,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2017,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2017,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2017,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2017,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2017,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2017,EN_ELEC,reported,2352000000,kWh,"2,352",GWh,Electricity consumption all production sites,Group,85,Vicat_2017_URD_EN.pdf,,"Electricity consumption by the Group's production sites (in GWh) | TOTAL | 2,352 | 2,332 | 2,146","LLM (Claude agent), not human-checked",0,llm_agent,"Text gives 2,350 GWh; table value used"
+Vicat,2017,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2017,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2017,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2017,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2017,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2017,S-EMP,reported,8460,persons,"8,460",employees,Headcount at 31 Dec,Group,70,Vicat_2017_URD_EN.pdf,,"Group headcount as at December 31, 2017 by geographical area | TOTAL | 8,460 | 8,101","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2017,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2017,S-LTIFR,reported,8.1,rate,8.1,rate,"Group employees; basis not stated in pack (French frequency-rate convention: lost-time accidents per 1,000,000 hours); sample covering 96% of workforce",Group,76,Vicat_2017_URD_EN.pdf,,For Group employees* | Frequency rate | 8.1 | 8.5,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2017,S-FATAL,reported,1,persons,1,persons,Group employees only; sample 96% of workforce,Group,76,Vicat_2017_URD_EN.pdf,,Number of fatal accidents among Group employees | 1 | 1,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2017,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2017,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2017,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2017,FIN_REV,reported,2563,EUR m,"2,563",EUR m,Consolidated net sales,Group,47,Vicat_2017_URD_EN.pdf,,"Consolidated net sales | 2,563 | 2,454 (in millions of euros)","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2018,GHG_S1,unclear,,tCO2e,,,,Group,96,Vicat_2018_URD_EN.pdf,,"Direct and indirect CO2 emissions (in kt) | Group | 15,921","LLM (Claude agent), not human-checked",0,llm_agent,"Only combined direct+indirect CO2 given (15,921 kt)"
+Vicat,2018,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2018,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2018,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2018,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2018,EN_ELEC,reported,2340000000,kWh,"2,340",GWh,Group electricity consumption,Group,96,Vicat_2018_URD_EN.pdf,,"Total electricity consumption (in GWh) | Group | 2,340 | 2,352 | 2,332","LLM (Claude agent), not human-checked",0,llm_agent,"2019 URD restates 2018 as 2,344 GWh"
+Vicat,2018,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2018,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2018,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2018,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2018,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2018,S-EMP,reported,8844,persons,"8,844",employees,Headcount at 31 Dec,Group,74,Vicat_2018_URD_EN.pdf,,"Group headcount as at December 31, 2018 by geographical area | TOTAL | 8,844 | 8,460","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2018,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2018,S-LTIFR,reported,6.2,rate,6.2,rate,"Group employees; basis not stated in pack (French frequency-rate convention: lost-time accidents per 1,000,000 hours); sample ~96% of workforce",Group,88,Vicat_2018_URD_EN.pdf,,For Group employees * | Frequency rate | 6.2 | 8.1,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2018,S-FATAL,reported,1,persons,1,persons,Group employees only; sample ~96% of workforce,Group,88,Vicat_2018_URD_EN.pdf,,Number of fatal accidents among Group employees | 1 | 1,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2018,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2018,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2018,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2018,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2019,GHG_S1,unclear,,tCO2e,,,,Group,85,Vicat_2019_URD_EN.pdf,,"Direct and indirect CO2 emissions (in kt) | Scope 1 and 2 | Group | 14,583","LLM (Claude agent), not human-checked",0,llm_agent,"Only combined Scope 1+2 given (14,583 kt)"
+Vicat,2019,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2019,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2019,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2019,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2019,EN_ELEC,reported,2316000000,kWh,"2,316",GWh,Electricity consumption all production sites,Group,82,Vicat_2019_URD_EN.pdf,,"Change in electricity consumption at the Group's production sites (in GWh) | TOTAL | 2,316 | 2,095 | 2,344","LLM (Claude agent), not human-checked",1,llm_agent,"Table also shows a '2019 tbd' column (2,095); 2,316 matches text"
+Vicat,2019,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2019,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2019,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2019,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2019,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2019,S-EMP,reported,9947,persons,"9,947",employees,Headcount at 31 Dec,Group,62,Vicat_2019_URD_EN.pdf,,"Group headcount as at December 31, 2019 ... TOTAL | 4,621 | 3,738 | 1,588 | 9,947","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2019,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2019,S-LTIFR,reported,5.2,rate,5.2,rate,"Group employees; basis not stated in pack (French frequency-rate convention: lost-time accidents per 1,000,000 hours); sample ~96% of workforce",Group,78,Vicat_2019_URD_EN.pdf,,For Group employees* | Frequency rate | 5.2 | 6.2,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2019,S-FATAL,reported,0,persons,0,persons,Group employees only; sample ~96% of workforce,Group,78,Vicat_2019_URD_EN.pdf,,Number of fatal accidents among Group employees | 0 | 1,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2019,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2019,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2019,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2019,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2020,GHG_S1,unclear,,tCO2e,,,,Group,81,Vicat_2020_URD_EN.pdf,,"Direct and indirect CO2 emissions (in Kt) | Scopes 1 and 2 | Group | 16,557","LLM (Claude agent), not human-checked",0,llm_agent,"Only combined Scope 1+2 given (16,557 kt)"
+Vicat,2020,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2020,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2020,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not in 2020 documents; later URDs report 3.0 Mt for 2020 (first Scope 3 measurement)
+Vicat,2020,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2020,EN_ELEC,reported,2577000000,kWh,"2,577",GWh,Group electricity consumption,Group,82,Vicat_2020_URD_EN.pdf,,"Total electricity consumption (in GWh) | Group | 2,577 | 2,316 | 2,344","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2020,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2020,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2020,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2020,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2020,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2020,S-EMP,reported,9829,persons,"9,829",employees,"Headcount, presumed at 31 Dec (table date not shown in pack)",Group,76,Vicat_2020_URD_EN.pdf,,"(in number of employees) Total ... TOTAL | 9,829","LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2020,S-WOMEN-PCT,reported,10.7,%,10.7,%,At 31 Dec,Group,76,Vicat_2020_URD_EN.pdf,,Proportion of women as % of workforce | GROUP TOTAL | 10.7 | 10.6,"LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2020,S-LTIFR,reported,5.5,rate,5.5,rate,"Group employees; basis not stated in pack (French frequency-rate convention: lost-time accidents per 1,000,000 hours); sample ~96% of workforce",Group,80,Vicat_2020_URD_EN.pdf,,For Group employees* | Frequency rate | 5.5 | 5.2,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2020,S-FATAL,reported,0,persons,0,persons,Group employees only; sample ~96% of workforce,Group,80,Vicat_2020_URD_EN.pdf,,Number of fatal accidents among Group employees | 0 | 0,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2020,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2020,G-BOARD-IND-PCT,unclear,,%,,,,Group,106,Vicat_2020_URD_EN.pdf,,"The independent members are: Sophie Fegueux, Bruno Salmon, Xavier Chalandon and Delphine André","LLM (Claude agent), not human-checked",0,llm_agent,Four independent members named but board size not in pack
+Vicat,2020,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2020,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2021,GHG_S1,reported,18000000,tCO2e,18.0,Mt CO2,"Gross Scope 1 CO2 (CO2 only, >99% of GHG), rounded Mt",Group,58,Vicat_2021_URD_EN.pdf,,o/w total Group Scope 1 emissions | 18.0,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2021,GHG_S2,reported,700000,tCO2e,0.7,Mt CO2,Only one Scope 2 figure; basis (location/market) not stated,Group,58,Vicat_2021_URD_EN.pdf,,o/w total Group Scope 2 emissions | 0.7,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2021,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2021,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Scope 3 total for 2021 not in 2021 documents (2022 URD estimates 4.2 Mt)
+Vicat,2021,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2021,EN_ELEC,reported,2866000000,kWh,"2,866",GWh,Group electricity consumption,Group,96,Vicat_2021_URD_EN.pdf,,"Total electricity consumption (in GWh) | Group | 2,866","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2021,EN_REN_PCT,unclear,,%,,,,Group,96,Vicat_2021_URD_EN.pdf,,Group | 4.8% | Group | 8.0% | Group | 26.1%,"LLM (Claude agent), not human-checked",0,llm_agent,"Percentage rows (4.8%, 8.0%, 26.1%) lack labels; none clearly renewable share of total energy"
+Vicat,2021,WA_WD,unclear,,m3,,,,Group,95,Vicat_2021_URD_EN.pdf,,Total water usage(in millions of m3) | Cement | 9.9,"LLM (Claude agent), not human-checked",0,llm_agent,Group withdrawal total not shown in 2021 pack (only business units; 2023 URD gives 18.0 Mm3 for 2021)
+Vicat,2021,WA_CONS,reported,9200000,m3,9.2,million m3,Consumption = water used minus water discharged (usage - waste),Group,95,Vicat_2021_URD_EN.pdf,,Total water consumption (in millions of m3) | Group | 9.2,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded to 0.1 Mm3
+Vicat,2021,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2021,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2021,S-EMP,unclear,,persons,,,,Group,83,Vicat_2021_URD_EN.pdf,,"Average number of employees of the consolidated companies | 9,476 | 9,902","LLM (Claude agent), not human-checked",0,llm_agent,"Only average employees 9,476 | 9,902 with unclear column order; no year-end headcount"
+Vicat,2021,S-WOMEN-PCT,reported,11.5,%,11.5%,%,Share of women in salaried workforce,Group,83,Vicat_2021_URD_EN.pdf,,"(11.5% in 2021, 10.7% in 2020) in the salaried workforce","LLM (Claude agent), not human-checked",1,llm_agent,"From narrative sentence, partly truncated"
+Vicat,2021,S-LTIFR,reported,5.8,rate,5.80,rate,"Group employees; basis not stated in pack (French frequency-rate convention: lost-time accidents per 1,000,000 hours)",Group,76,Vicat_2021_URD_EN.pdf,,Health & safety indicators for Group employees | 2021 | Frequency rate | 5.80,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2021,S-FATAL,reported,0,persons,0,persons,Group employees only,Group,76,Vicat_2021_URD_EN.pdf,,Number of lost-time accidents among Group employees | 131 | 0,"LLM (Claude agent), not human-checked",1,llm_agent,Fatality row label missing in pack; 0 inferred from row position (same layout as labelled Cement table)
+Vicat,2021,G-BOARD-SIZE,unclear,,persons,,,,Group,153,Vicat_2021_URD_EN.pdf,,Directors' compensation table (partial),"LLM (Claude agent), not human-checked",0,llm_agent,Director compensation table truncated; full board list not visible
+Vicat,2021,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2021,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2021,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2022,GHG_S1,reported,17300000,tCO2e,17.3,Mt CO2,"Gross Scope 1 CO2, rounded Mt",Group,64,Vicat_2022_URD_EN.pdf,,o/w total Group Scope 1 emissions | 17.3 | 18.0,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2022,GHG_S2,reported,800000,tCO2e,0.8,Mt CO2,Only one Scope 2 figure; basis (location/market) not stated,Group,64,Vicat_2022_URD_EN.pdf,,o/w total Group Scope 2 emissions | 0.8 | 0.7,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2022,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2022,GHG_S3,unclear,,tCO2e,,,,Group,64,Vicat_2022_URD_EN.pdf,,Estimated Scope 3 CO2 emissions by category (Group) in 2021* | TOTAL | 4.2 | 3.0,"LLM (Claude agent), not human-checked",0,llm_agent,Scope 3 total for 2022 not in 2022 documents (only 2021 estimate 4.2 Mt; 2023 URD gives 4.1 Mt for 2022)
+Vicat,2022,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2022,EN_ELEC,reported,2826000000,kWh,"2,826",GWh,Group electricity consumption,Group,95,Vicat_2022_URD_EN.pdf,,"Total electricity consumption (in GWh) | Group | 2,826 | 2,866","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2022,EN_REN_PCT,unclear,,%,,,,Group,95,Vicat_2022_URD_EN.pdf,,Group | 5.0% | 4.8% | Group | 8.5% | 8.0% | Group | 35.2% | 26.1%,"LLM (Claude agent), not human-checked",0,llm_agent,Percentage rows lack labels; none clearly renewable share of total energy
+Vicat,2022,WA_WD,unclear,,m3,,,,Group,94,Vicat_2022_URD_EN.pdf,,Group | 9.8 | 8.8 | Total water consumption ...,"LLM (Claude agent), not human-checked",0,llm_agent,Group withdrawal row truncated in pack (2023 URD gives 18.9 Mm3 for 2022)
+Vicat,2022,WA_CONS,reported,9200000,m3,9.2,million m3,Consumption = withdrawal minus discharge,Group,94,Vicat_2022_URD_EN.pdf,,Total water consumption (in millions of m3) | Group | 9.2 | 9.2,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded to 0.1 Mm3
+Vicat,2022,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2022,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2022,S-EMP,reported,9912,persons,"9,912",employees,"Headcount, presumed at 31 Dec 2022",Group,80,Vicat_2022_URD_EN.pdf,,"Track record on gender equality (in number of employees) | TOTAL | 9,912","LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2022,S-WOMEN-PCT,reported,11.8,%,11.8%,%,At 31 Dec 2022,Group,80,Vicat_2022_URD_EN.pdf,,Proportion of women as % of workforce | GROUP TOTAL | 11.8%,"LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2022,S-LTIFR,reported,4.81,rate,4.81,rate,"Group employees; basis not stated in pack (French frequency-rate convention: lost-time accidents per 1,000,000 hours)",Group,74,Vicat_2022_URD_EN.pdf,,Health and safety indicators for Group employees* | Frequency rate | 4.81 | 5.80,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2022,S-FATAL,reported,1,persons,1,persons,Group employees only,Group,74,Vicat_2022_URD_EN.pdf,,Number of lost-time accidents among Group employees | 96 | 131 | 1 | 0 | NA,"LLM (Claude agent), not human-checked",1,llm_agent,Row label missing in pack; text confirms 'a deadly accident within Group teams clouded 2022'
+Vicat,2022,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2022,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2022,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2022,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2023,GHG_S1,reported,17800000,tCO2e,17.8%,Mt CO2,"Gross Scope 1 CO2, rounded Mt",Group,100,Vicat_2023_URD_EN.pdf,,CO2 emissions – SCOPE 1 – Gross emissions (millions of metric tons of CO2) | Group | 17.8% | 17.3 | 18.0,"LLM (Claude agent), not human-checked",1,llm_agent,Stray '%' sign in source (layout artefact)
+Vicat,2023,GHG_S2,reported,900000,tCO2e,0.9,Mt CO2,"Only one Scope 2 figure; basis not stated (2024 URD: LB 0.92, MB 0.94)",Group,100,Vicat_2023_URD_EN.pdf,,CO2 emissions – SCOPE 2 (millions of metric tons of CO2) | Group | 0.9 | 0.8 | 0.7,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2023,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2023,GHG_S3,reported,3900000,tCO2e,3.9,Mt CO2e,"Total of 4 significant categories (1, 3, 4, 9); rounded",Group,100,Vicat_2023_URD_EN.pdf,,CO2 emissions – SCOPE 3 (millions of metric tons of CO2e) | Group | 3.9 | 4.1 | 4.2,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2023,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Total energy not in 2023 documents in pack (2024 URD gives 24,978 GWh for 2023)"
+Vicat,2023,EN_ELEC,reported,2883000000,kWh,"2,883",GWh,Group electricity consumption,Group,100,Vicat_2023_URD_EN.pdf,,"Total electricity consumption (GWh) | Group | 2,883 | 2,826 | 2,866","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2023,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only renewable share of electricity (8.8%) shown
+Vicat,2023,WA_WD,reported,18200000,m3,18.2,million m3,,Group,99,Vicat_2023_URD_EN.pdf,,Total water withdrawal (millions of m3) | Group | 18.2 | 18.9 | 18.0,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded to 0.1 Mm3
+Vicat,2023,WA_CONS,reported,9200000,m3,9.2,million m3,Withdrawal minus discharge,Group,99,Vicat_2023_URD_EN.pdf,,Total water consumption (millions of m3) | Group | 9.2 | 9.2 | 9.2,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded to 0.1 Mm3
+Vicat,2023,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2023,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2023,S-EMP,reported,9993,persons,"9,993",employees,"Headcount, presumed at 31 Dec 2023",Group,81,Vicat_2023_URD_EN.pdf,,"Track record on gender equality (in number of employees) | TOTAL | 9,993","LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2023,S-WOMEN-PCT,reported,12.1,%,12.1%,%,At 31 Dec 2023,Group,81,Vicat_2023_URD_EN.pdf,,Proportion of women as % of total workforce | GROUP TOTAL | 12.1% | 11.8%,"LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2023,S-LTIFR,reported,4.18,rate,4.18,rate,"Group employees; basis not stated in pack (French frequency-rate convention: lost-time accidents per 1,000,000 hours)",Group,74,Vicat_2023_URD_EN.pdf,,Health and safety indicators for Group employees(1) | Frequency rate | 4.18 | 4.81,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2023,S-FATAL,reported,1,persons,1,persons,Group employees only,Group,74,Vicat_2023_URD_EN.pdf,,Number of lost-time accidents among Group employees | 84 | 96 | -12.5% | 1 | 1 | NA,"LLM (Claude agent), not human-checked",1,llm_agent,Row label missing in pack; consistent with C&A table showing 1 fatal in 2023
+Vicat,2023,G-BOARD-SIZE,unclear,,persons,,,,Group,158,Vicat_2023_URD_EN.pdf,,Directors' compensation table (partial),"LLM (Claude agent), not human-checked",0,llm_agent,Director compensation table truncated; full board list not visible
+Vicat,2023,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2023,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2023,FIN_REV,unclear,,EUR m,,,,Group,175,Vicat_2023_URD_EN.pdf,,"Consolidated revenue | 2,153 | 1,964 (Cement)","LLM (Claude agent), not human-checked",0,llm_agent,Only business-segment consolidated revenues in pack; group total not shown
+Vicat,2024,GHG_S1,reported,17300000,tCO2e,17.3,Mt CO2eq,"ESRS E1-6, rounded Mt",Group,86,Vicat_2024_URD_EN.pdf,,48 a | Gross Scope 1 GHG emissions (Mt CO2eq) | 17.3 | 17.2 | 0.1 | 17.8%,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2024,GHG_S2,reported,770000,tCO2e,0.77,Mt CO2eq,Location-based,Group,86,Vicat_2024_URD_EN.pdf,,49 a | Gross location-based Scope 2 GHG emissions (Mt CO2eq.) | 0.77,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2024,GHG_S2_MB,reported,690000,tCO2e,0.69,Mt CO2eq,Market-based,Group,86,Vicat_2024_URD_EN.pdf,,49 b | Gross market-based Scope 2 GHG emissions (Mt CO2eq.) | 0.69,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2024,GHG_S3,reported,3700000,tCO2e,3.7,Mt CO2eq,"Significant categories 1, 3, 4, 9",Group,86,Vicat_2024_URD_EN.pdf,,Total Gross indirect (Scope 3) GHG emissions (Mt CO2eq.) | 3.7 | 3.0 | 0.7 | 3.9,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2024,EN_TOT,reported,86911200,GJ,"24,142",GWh,"GWh x3,600",Group,85,Vicat_2024_URD_EN.pdf,,"Total energy consumption (GWh) | Group | 24,142 | 23,522 | 619 | 24,978","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2024,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Group electricity total not in 2024 pack
+Vicat,2024,EN_REN_PCT,reported,14.0,%,14.0%,%,Renewable share of total energy (ESRS E1-5),Group,85,Vicat_2024_URD_EN.pdf,,"37 c | Total energy consumption from renewable sources (GWh) | Group | 3,379 | ... | 24,142; Group | 14.0%","LLM (Claude agent), not human-checked",1,llm_agent,"Percent row label missing in pack; 3,379/24,142 = 14.0% confirms"
+Vicat,2024,WA_WD,reported,18600000,m3,18.6,Mm3,ESRS E3-4,Group,101,Vicat_2024_URD_EN.pdf,,AR32 | Total water withdrawal (Mm3) | 18.6 | 10.1 | 1.8 | 5.7 | 1.0 | 18.2,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded; 2025 URD restates 2024 as 16.2 Mm3
+Vicat,2024,WA_CONS,reported,8900000,m3,8.9,Mm3,Withdrawal minus discharge (ESRS E3-4),Group,101,Vicat_2024_URD_EN.pdf,,28 a | Total water consumption (Mm3) | 8.9 | 4.7 | 1.8 | 2.4 | 0.1 | 9.2,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded to 0.1 Mm3
+Vicat,2024,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2024,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2024,S-EMP,reported,9990,persons,"9,990",employees,Headcount at 12/31,Group,131,Vicat_2024_URD_EN.pdf,,"Total number of employees by gender | Total employees | Number | 9,990","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2024,S-WOMEN-PCT,reported,12.58,%,"1,257 of 9,990",employees,"Computed 1,257/9,990 x100",Group,131,Vicat_2024_URD_EN.pdf,,"Total employees | 9,990 | Female | Number | 1,257","LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2024,S-LTIFR,reported,3.34,rate,3.34,rate,"Lost-time injuries per 1,000,000 hours; own workforce (20,361,849 hours)",Group,127,Vicat_2024_URD_EN.pdf,,"Formula: number of reported lost-time injuries*1,000,000/number of hours worked ... frequency rate (3.34 in 2024)","LLM (Claude agent), not human-checked",1,llm_agent,Coverage presumed employees (own workforce section)
+Vicat,2024,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Fatalities not shown in 2024 pack
+Vicat,2024,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2024,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2024,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2024,FIN_REV,unclear,,EUR m,,,,Group,257,Vicat_2024_URD_EN.pdf,,"CEMENT BUSINESS | Consolidated revenues | 2,076 | 2,153","LLM (Claude agent), not human-checked",0,llm_agent,Only business-segment consolidated revenues in pack; group total not shown
+Vicat,2025,GHG_S1,reported,17700000,tCO2e,17.7,Mt CO2eq,"ESRS E1-6, rounded Mt",Group,88,Vicat_2025_URD_EN.pdf,,48.a | Gross Scope 1 GHG emissions (Mt CO eq.) | 17.7 | 17.6 | 0.1 | 17.3,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2025,GHG_S2,reported,770000,tCO2e,0.77,Mt CO2eq,Location-based,Group,88,Vicat_2025_URD_EN.pdf,,49.a | Gross location-based Scope 2 GHG emissions (Mt CO eq.) | 0.77,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2025,GHG_S2_MB,reported,720000,tCO2e,0.72,Mt CO2eq,Market-based,Group,88,Vicat_2025_URD_EN.pdf,,49.b | Gross market-based Scope 2 GHG emissions (Mt CO eq.) | 0.72,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2025,GHG_S3,reported,4400000,tCO2e,4.4,Mt CO2eq,"Significant categories 1, 3, 4, 9",Group,88,Vicat_2025_URD_EN.pdf,,Total gross indirect GHG emissions (Scope 3) (Mt CO eq.) | 4.4 | 3.6 | 0.8 | 3.7,"LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2025,EN_TOT,reported,88372800,GJ,"24,548",GWh,"GWh x3,600",Group,87,Vicat_2025_URD_EN.pdf,,"Total energy consumption (GWh) | Group | 24,548 | 23,910 | 638 | 24,142","LLM (Claude agent), not human-checked",0,llm_agent,
+Vicat,2025,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Group electricity total not in 2025 pack
+Vicat,2025,EN_REN_PCT,reported,14.5,%,14.5%,%,Renewable share of total energy (ESRS E1-5),Group,87,Vicat_2025_URD_EN.pdf,,"37.c | Total energy consumption from renewable sources (GWh) | Group | 3,563 ... | Group | 14.5%","LLM (Claude agent), not human-checked",1,llm_agent,"Percent row label missing in pack; 3,563/24,548 = 14.5% confirms"
+Vicat,2025,WA_WD,reported,15700000,m3,15.7,Mm3,ESRS E3-4,Group,104,Vicat_2025_URD_EN.pdf,,AR32 | Total water withdrawal (Mm ) | 15.7 | 9.8 | 1.8 | 3.2 | 0.9 | 16.2*,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded to 0.1 Mm3
+Vicat,2025,WA_CONS,reported,9100000,m3,9.1,Mm3,Withdrawal minus discharge (ESRS E3-4),Group,104,Vicat_2025_URD_EN.pdf,,28.a | Total water consumption (Mm ) | 9.1 | 4.7 | 1.8 | 2.5 | 0.1 | 8.9,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded to 0.1 Mm3
+Vicat,2025,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack (only waste reused/recovered mentioned in some years)
+Vicat,2025,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2025,S-EMP,reported,10194,persons,"10,194",employees,Headcount at 31 Dec 2025,Group,133,Vicat_2025_URD_EN.pdf,,"Employees by gender | Total employees | Number | 9,990 | 10,194","LLM (Claude agent), not human-checked",0,llm_agent,"Excludes REALMIX (229); including it headcount is 10,423"
+Vicat,2025,S-WOMEN-PCT,reported,13.14,%,"1,340 of 10,194",employees,"Computed 1,340/10,194 x100",Group,133,Vicat_2025_URD_EN.pdf,,"Total employees | 9,990 | 10,194 | Female | 1,257 | 1,340","LLM (Claude agent), not human-checked",1,llm_agent,
+Vicat,2025,S-LTIFR,reported,3.33,rate,3.33,rate,"Lost-time injuries per 1,000,000 hours (20,099,869 hours)",Group,129,Vicat_2025_URD_EN.pdf,,Work-related accident rate/frequency rate/LTIR | % | 3.34 | 3.33 | -0.3%,"LLM (Claude agent), not human-checked",1,llm_agent,Column order (2024 | 2025) inferred from table layout
+Vicat,2025,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Fatalities not shown in 2025 pack
+Vicat,2025,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack
+Vicat,2025,G-BOARD-IND-PCT,unclear,,%,,,,Group,216,Vicat_2025_URD_EN.pdf,,"The independent members are: Sophie Fégueux, Bruno Salmon, Kristell Guizouarn, Caroline Ginon and Rémy Weber","LLM (Claude agent), not human-checked",0,llm_agent,Five independent members named but board size not in pack
+Vicat,2025,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack
+Vicat,2025,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in this year's pack

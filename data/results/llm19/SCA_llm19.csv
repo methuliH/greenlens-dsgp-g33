@@ -1,0 +1,267 @@
+﻿company,data_year,indicator_code,disclosure_status,value_numeric,unit,source_value_text,source_unit,measurement_basis,boundary,pdf_page,source_file,source_url,source_excerpt,verification_status,needs_review,extraction_method,note
+SCA,2012,GHG_S1,unclear,,tCO2e,,,,Group,37,SCA_2012_sustainability-report_EN.pdf,,the Group's 2012 production emissions of 1.6 million tons,"LLM (Claude agent), not human-checked",0,llm_agent,"Only 'production emissions of 1.6 million tons' (text, scope not stated)."
+SCA,2012,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2012,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2012,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2012,EN_TOT,unclear,,GJ,,,,Group,37,SCA_2012_sustainability-report_EN.pdf,,"Fuel consumption 2012: 52,828 TJ fuel","LLM (Claude agent), not human-checked",0,llm_agent,"Only fuel 52,828 TJ and electricity 7,780 GWh given separately; no total."
+SCA,2012,EN_ELEC,reported,7780000000,kWh,"7,780",GWh,Electricity consumption incl. own co-generation (16%),Group,37,SCA_2012_sustainability-report_EN.pdf,,"Electricity consumption 2012: 7,780 GWh","LLM (Claude agent), not human-checked",0,llm_agent,"GWh x1,000,000"
+SCA,2012,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2012,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2012,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2012,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2012,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2012,S-EMP,reported,33775,persons,"33,775",persons,Average number of employees (not year-end headcount),Group,3,SCA_2012_sustainability-report_EN.pdf,,"SCA Group total | Average no. of employees | 33,775","LLM (Claude agent), not human-checked",1,llm_agent,"Average, not year-end headcount. Pre-2017 SCA incl. hygiene business (later Essity); not comparable with 2017+ forest-products SCA."
+SCA,2012,S-WOMEN-PCT,reported,29,%,29,%,"Share of women, group total",Group,3,SCA_2012_sustainability-report_EN.pdf,,"SCA Group total | Women, % | 29","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2012,S-LTIFR,reported,8.5,rate,8.5,FR,"LTA in relation to hours worked; basis not stated (later reports use per 1,000,000 hours); employees",Group,57,SCA_2012_sustainability-report_EN.pdf,,"Frequency Rate (FR), % | 8.5","LLM (Claude agent), not human-checked",1,llm_agent,Basis assumed per million hours; 2013 report restates 2012 as 9.7.
+SCA,2012,S-FATAL,reported,1,persons,1,persons,Fatalities in safety statistics; coverage presumed employees,Group,57,SCA_2012_sustainability-report_EN.pdf,,Safety statistics 2012 | Fatalities | 1,"LLM (Claude agent), not human-checked",1,llm_agent,Coverage not stated (likely employees).
+SCA,2012,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2012,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2012,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2012,FIN_REV,reported,85408,SEK m,"85,408",SEKm,Net sales,Group,3,SCA_2012_sustainability-report_EN.pdf,,"SCA Group total | Net sales, SEKm | 85,408","LLM (Claude agent), not human-checked",0,llm_agent,Pre-2017 SCA incl. hygiene business (later Essity); not comparable with 2017+ forest-products SCA.
+SCA,2013,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2013,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2013,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2013,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2013,EN_TOT,unclear,,GJ,,,,Group,36,SCA_2013_sustainability-report_EN.pdf,,"Fuel consumption 2013: 61,247 TJ fuel","LLM (Claude agent), not human-checked",0,llm_agent,"Only fuel 61,247 TJ and electricity 8,280 GWh given separately; no total."
+SCA,2013,EN_ELEC,reported,8280000000,kWh,"8,280",GWh,Electricity consumption incl. own co-generation (16%),Group,36,SCA_2013_sustainability-report_EN.pdf,,"Electricity consumption 2013: 8,280 GWh","LLM (Claude agent), not human-checked",0,llm_agent,"GWh x1,000,000"
+SCA,2013,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2013,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2013,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2013,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2013,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2013,S-EMP,reported,34004,persons,"34,004",persons,Average number of employees (not year-end headcount),Group,3,SCA_2013_sustainability-report_EN.pdf,,"SCA Group total | Average no. of employees | 34,004","LLM (Claude agent), not human-checked",1,llm_agent,Average. Pre-2017 SCA incl. hygiene business (later Essity); not comparable with 2017+ forest-products SCA.
+SCA,2013,S-WOMEN-PCT,reported,28,%,28,%,"Share of women, group total",Group,3,SCA_2013_sustainability-report_EN.pdf,,"SCA Group total | Women, % | 28","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2013,S-LTIFR,reported,8.4,rate,8.4,"per 1,000,000 hours","Per 1,000,000 working hours; employees",Group,54,SCA_2013_sustainability-report_EN.pdf,,"The accident frequency rate was 8.4 (9.7) per 1,000,000 working hours","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2013,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2013,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2013,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2013,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2013,FIN_REV,reported,89019,SEK m,"89,019",SEKm,Net sales,Group,3,SCA_2013_sustainability-report_EN.pdf,,"SCA Group total | Net sales, SEKm | 89,019","LLM (Claude agent), not human-checked",0,llm_agent,Pre-2017 SCA incl. hygiene business (later Essity); not comparable with 2017+ forest-products SCA.
+SCA,2015,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,S-EMP,reported,44000,persons,"44,000",persons,Number of employees at Dec. 31 (rounded),Group,7,SCA_2015_Annual_annual-report-2015.pdf,,"Number of employees at Dec. 31 | 44,000","LLM (Claude agent), not human-checked",1,llm_agent,Rounded. Pre-2017 SCA incl. hygiene business (later Essity); not comparable with 2017+ forest-products SCA.
+SCA,2015,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,S-LTIFR,reported,6.3,rate,6.3,per million hours,Per million hours worked; excluding Vinda,Group,34,SCA_2015_Annual_annual-report-2015.pdf,,The accident frequency rate was 6.3 (6.7) per million hours worked,"LLM (Claude agent), not human-checked",1,llm_agent,Excludes Vinda (partial scope).
+SCA,2015,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2015,FIN_REV,reported,115316,SEK m,"115,316",SEKm,Net sales,Group,7,SCA_2015_Annual_annual-report-2015.pdf,,"Net sales, SEKm/EURm | 115,316 | 12,334","LLM (Claude agent), not human-checked",0,llm_agent,Pre-2017 SCA incl. hygiene business (later Essity); not comparable with 2017+ forest-products SCA.
+SCA,2016,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,S-LTIFR,reported,4.6,rate,4.6,per million hours,"Per million hours worked; target scope (footnote 1, likely excl. Vinda)",Group,20,SCA_2016_Annual_annual-report-2016.pdf,,The accident frequency rate was 4.6 per million hours worked,"LLM (Claude agent), not human-checked",1,llm_agent,Pre-2017 SCA incl. hygiene business (later Essity); not comparable with 2017+ forest-products SCA.
+SCA,2016,S-FATAL,reported,1,persons,1,persons,From narrative: one fatality (Mannheim site),Group,20,SCA_2016_Annual_annual-report-2016.pdf,,A tragic fatality occurred at the Mannheim site in Germany.,"LLM (Claude agent), not human-checked",1,llm_agent,Coverage not stated; text-based.
+SCA,2016,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2016,FIN_REV,unclear,,SEK m,,,,Group,51,SCA_2016_Annual_annual-report-2016.pdf,,"Net sales | SEK 33,651m","LLM (Claude agent), not human-checked",0,llm_agent,"Only Personal Care segment net sales (SEK 33,651m) in pack."
+SCA,2017,GHG_S1,unclear,,tCO2e,,,,Group,132,SCA_2017_Annual_annual-report-2017.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Fossil CO2 only in chart; no figure in pack.
+SCA,2017,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2017,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2017,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2017,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2017,EN_ELEC,unclear,,kWh,,,,Group,131,SCA_2017_Annual_annual-report-2017.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only shares of electricity supply (co-generation 27%, grid 73%)."
+SCA,2017,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2017,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2017,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2017,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2017,E-WST-HAZ,reported,1384,MT,"1,384",tonnes,"Hazardous waste, production facilities (first column assumed group total 2017)",Production facilities,134,SCA_2017_Annual_annual-report-2017.pdf,,"Hazardous waste | tonnes | 1,384 | 1,121 | 1,185","LLM (Claude agent), not human-checked",1,llm_agent,"Table layout garbled; column assumed; 2018 report restates 2017 as 1,416."
+SCA,2017,S-EMP,reported,4031,persons,"4,031",persons,"Number of employees at Dec 31, 2017",Group,133,SCA_2017_Annual_annual-report-2017.pdf,,"Number of employees1 | 4,031 | 3,912","LLM (Claude agent), not human-checked",0,llm_agent,From 2017 SCA = forest-products company after Essity spin-off.
+SCA,2017,S-WOMEN-PCT,reported,18,%,18%,%,"Share of women, all employees",Group,133,SCA_2017_Annual_annual-report-2017.pdf,,"Share of women, all employees | 18% | 17%","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2017,S-LTIFR,reported,10.4,rate,10.4,"LTA/1,000,000 WH","LTA per 1,000,000 hours worked; employees",Group,133,SCA_2017_Annual_annual-report-2017.pdf,,"Workplace accident Frequency Rate, FR, (LTA/1,000,000 WH) | 10.4 | 8.7","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2017,S-FATAL,reported,0,persons,0,persons,Employees only,Group,133,SCA_2017_Annual_annual-report-2017.pdf,,Fatalities | 0 | 0,"LLM (Claude agent), not human-checked",1,llm_agent,Employees only; 2018 report shows 1 contractor fatality in 2017.
+SCA,2017,G-BOARD-SIZE,reported,9,persons,4 of 9,members,"Board of Directors, AGM-elected members (excl. employee representatives); 12 incl. employee reps",Group,133,SCA_2017_Annual_annual-report-2017.pdf,,Share of women on the Board of Directors3 | 4 of 9,"LLM (Claude agent), not human-checked",1,llm_agent,Size taken from '4 of 9' (excl. employee reps).
+SCA,2017,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2017,G-BOARD-WOMEN-PCT,reported,44.44,%,4 of 9,count,Computed 4/9 x100; excl. employee representatives (5 of 12 incl.),Group,133,SCA_2017_Annual_annual-report-2017.pdf,,Share of women on the Board of Directors3 | 4 of 9,"LLM (Claude agent), not human-checked",1,llm_agent,Computed from counts.
+SCA,2017,FIN_REV,unclear,,SEK m,,,,Group,84,SCA_2017_Annual_annual-report-2017.pdf,,"Germany | 2,617 | 16 | 100 | 15,373 | 100","LLM (Claude agent), not human-checked",0,llm_agent,Country table garbled; group net sales total for 2017 not identifiable.
+SCA,2018,GHG_S1,unclear,,tCO2e,,,,Group,136,SCA_2018_Annual_annual-report-2018.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only pie-chart shares (Scope 1 23%) and charts.
+SCA,2018,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2018,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2018,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2018,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2018,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2018,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2018,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2018,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2018,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2018,E-WST-HAZ,reported,1383,MT,"1,383",tonnes,"Hazardous waste, production facilities (first column assumed 2018 total)",Production facilities,140,SCA_2018_Annual_annual-report-2018.pdf,,"Hazardous waste | tonnes | 1,383 | 1,416 | 1,121","LLM (Claude agent), not human-checked",1,llm_agent,"Table layout garbled; 2019 report restates 2018 as 1,357."
+SCA,2018,S-EMP,reported,4121,persons,"4,121",persons,"Number of employees at Dec 31, 2018",Group,139,SCA_2018_Annual_annual-report-2018.pdf,,"Number of employees1) | 4,121 | 4,031 | 3,912","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2018,S-WOMEN-PCT,reported,19,%,19%,%,"Share of women, all employees",Group,139,SCA_2018_Annual_annual-report-2018.pdf,,"Share of women, all employees | 19% | 18% | 17%","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2018,S-LTIFR,reported,9.1,rate,9.1,"LTA/1,000,000 WH","LTA per 1,000,000 hours worked; employees",Group,139,SCA_2018_Annual_annual-report-2018.pdf,,"Workplace accident Frequency Rate, FR, (LTA/1,000,000 WH) | 9.1 | 10.4 | 8.7","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2018,S-FATAL,reported,0,persons,0,persons,Employees only,Group,139,SCA_2018_Annual_annual-report-2018.pdf,,Fatal accidents | 0 | 0 | 0,"LLM (Claude agent), not human-checked",1,llm_agent,"Employees only; contractors had 2 fatal accidents (CLTA 33 (2)), reported separately."
+SCA,2018,G-BOARD-SIZE,unclear,,persons,,,,Group,58,SCA_2018_Annual_annual-report-2018.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Board member list truncated; NomCom proposal of 10 refers to next AGM.
+SCA,2018,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2018,G-BOARD-WOMEN-PCT,reported,40,%,40%,%,Board of Directors excl. employee representatives (38% incl.),Group,139,SCA_2018_Annual_annual-report-2018.pdf,,Share of women on the Board of Directors3) | 40% | 44% | N/A,"LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2018,FIN_REV,unclear,,SEK m,,,,Group,83,SCA_2018_Annual_annual-report-2018.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Own report's country table garbled; 2019 report gives 2018 net sales SEK 18,755m (prior-year, not used)."
+SCA,2019,GHG_S1,unclear,,tCO2e,,,,Group,150,SCA_2019_Annual_annual-report-2019.pdf,,amounted to about 0.91 million tonnes of CO2e in 2019,"LLM (Claude agent), not human-checked",0,llm_agent,"2019 own report gives only value-chain total ~0.91 Mt; 2020 report gives 2019 Scope 1 0.28 Mt (prior-year, not used)."
+SCA,2019,GHG_S2,unclear,,tCO2e,,,,Group,150,SCA_2019_Annual_annual-report-2019.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not in 2019 own documents; 2020 report gives 0.06 Mt (prior-year).
+SCA,2019,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2019,GHG_S3,unclear,,tCO2e,,,,Group,150,SCA_2019_Annual_annual-report-2019.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not in 2019 own documents; 2020 report gives 0.57 Mt (prior-year).
+SCA,2019,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2019,EN_ELEC,unclear,,kWh,,,,Group,154,SCA_2019_Annual_annual-report-2019.pdf,,"In 2019, this amounted to 351 GWh.","LLM (Claude agent), not human-checked",0,llm_agent,'351 GWh' appears without clear context.
+SCA,2019,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2019,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2019,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2019,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2019,E-WST-HAZ,reported,1878,MT,"1,878",tonnes,"Hazardous waste, production facilities (first column assumed 2019 total)",Production facilities,154,SCA_2019_Annual_annual-report-2019.pdf,,"Hazardous waste | tonnes | 1,878 | 1,357 | 1,416","LLM (Claude agent), not human-checked",1,llm_agent,Table layout garbled.
+SCA,2019,S-EMP,reported,4118,persons,"4,118",persons,Number of employees at Dec 31,Group,153,SCA_2019_Annual_annual-report-2019.pdf,,"Number of employees1) | 4,118 | 4,121 | 4,031","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2019,S-WOMEN-PCT,reported,19,%,19%,%,"Share of women, all employees",Group,153,SCA_2019_Annual_annual-report-2019.pdf,,"Share of women, all employees | 19% | 19% | 18%","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2019,S-LTIFR,reported,7.4,rate,7.4,"LTA/1,000,000 WH","LTA per 1,000,000 hours worked; employees",Group,153,SCA_2019_Annual_annual-report-2019.pdf,,"Workplace accident Frequency Rate, FR, (LTA/1,000,000 WH) | 7.4 | 9.1 | 10.4","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2019,S-FATAL,reported,0,persons,0,persons,Employees 0; contractors 0 fatal (CLTA 17 (0)),Group,153,SCA_2019_Annual_annual-report-2019.pdf,,Fatal accidents | 0 | 0 | 0; CLTA ... 17 (0),"LLM (Claude agent), not human-checked",0,llm_agent,Employees and contractors.
+SCA,2019,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2019,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2019,G-BOARD-WOMEN-PCT,reported,40,%,40%,%,Board excl. employee representatives (row label missing; 38% incl.),Group,153,SCA_2019_Annual_annual-report-2019.pdf,,Gender equality | 40% | 40% | 44% | 38% | 38% | 42%,"LLM (Claude agent), not human-checked",1,llm_agent,Row label missing in pack; matched to 2018 series.
+SCA,2019,FIN_REV,reported,19591,SEK m,"19,591",SEKm,"Net sales, Total Group",Group,94,SCA_2019_Annual_annual-report-2019.pdf,,"2019 fiscal year | Net sales | ... | -7,296 | 19,591","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2020,GHG_S1,reported,250000,tCO2e,0.25,million tonnes CO2e,Scope 1 direct emissions incl. own vessels,Group,151,SCA_2020_Annual_annual-report-2020.pdf,,1. Direct emissions | 0.25 | 0.28,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded to 0.01 Mt.
+SCA,2020,GHG_S2,reported,50000,tCO2e,0.05,million tonnes CO2e,Scope 2 purchased electricity and energy; basis not stated,Group,151,SCA_2020_Annual_annual-report-2020.pdf,,2. Purchased electricity and energy | 0.05 | 0.06,"LLM (Claude agent), not human-checked",1,llm_agent,"Rounded; basis not stated, placed in location-based."
+SCA,2020,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2020,GHG_S3,reported,560000,tCO2e,0.56,million tonnes CO2e,Scope 3 as reported (labelled 'Purchased goods and services'); value chain to customers' gate,Group,151,SCA_2020_Annual_annual-report-2020.pdf,,3. Purchased goods and services | 0.56 | 0.57,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded; limited Scope 3 categories.
+SCA,2020,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2020,EN_ELEC,unclear,,kWh,,,,Group,162,SCA_2020_Annual_annual-report-2020.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only electricity sold externally (0.42 TWh) in pack.
+SCA,2020,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2020,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2020,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2020,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2020,E-WST-HAZ,reported,2310,MT,"2,310",tonnes,"Hazardous waste, production facilities (first column assumed 2020 total)",Production facilities,162,SCA_2020_Annual_annual-report-2020.pdf,,"Hazardous waste | tonnes | 2,310 | 1,878 | 1,357","LLM (Claude agent), not human-checked",1,llm_agent,Table layout garbled.
+SCA,2020,S-EMP,reported,3829,persons,"3,829",persons,Number of employees at Dec 31,Group,161,SCA_2020_Annual_annual-report-2020.pdf,,"Number of employees1) | 3,829 | 4,118 | 4,121","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2020,S-WOMEN-PCT,reported,21,%,21%,%,"Share of women, all employees",Group,161,SCA_2020_Annual_annual-report-2020.pdf,,"Share of women, all employees | 21% | 19% | 19%","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2020,S-LTIFR,reported,5.6,rate,5.6,"LTA/1,000,000 WH","LTA per 1,000,000 hours worked; employees",Group,161,SCA_2020_Annual_annual-report-2020.pdf,,"Workplace accident Frequency Rate, FR, (LTA/1,000,000 WH) | 5.6 | 7.4 | 9.1","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2020,S-FATAL,reported,0,persons,0,persons,Employees 0; contractors 0 fatal (CLTA 24 (0)),Group,161,SCA_2020_Annual_annual-report-2020.pdf,,Fatal accidents | 0 | 0 | 0; CLTA ... 24 (0),"LLM (Claude agent), not human-checked",0,llm_agent,Employees and contractors.
+SCA,2020,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2020,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2020,G-BOARD-WOMEN-PCT,reported,33,%,33%,%,Board excl. employee representatives (row label missing; 36% incl.),Group,161,SCA_2020_Annual_annual-report-2020.pdf,,Gender equality | 33% | 40% | 40% | 36% | 38% | 38%,"LLM (Claude agent), not human-checked",1,llm_agent,Row label missing in pack.
+SCA,2020,FIN_REV,reported,18410,SEK m,"18,410",SEKm,"Net sales, Total Group",Group,97,SCA_2020_Annual_annual-report-2020.pdf,,"2020 fiscal year | Net sales | ... | -6,719 | 18,410","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2021,GHG_S1,reported,240000,tCO2e,0.24,million tonnes CO2e,Scope 1 direct emissions incl. own vessels,Group,149,SCA_2021_Annual_annual-report-2021.pdf,,1. Direct emissions | 0.24 | 0.25,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded to 0.01 Mt.
+SCA,2021,GHG_S2,reported,40000,tCO2e,0.04,million tonnes CO2e,Scope 2 purchased electricity and energy; basis not stated,Group,149,SCA_2021_Annual_annual-report-2021.pdf,,2. Purchased electricity and energy | 0.04 | 0.05,"LLM (Claude agent), not human-checked",1,llm_agent,"Rounded; basis not stated, placed in location-based."
+SCA,2021,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2021,GHG_S3,reported,440000,tCO2e,0.44,million tonnes CO2e,Scope 3 as reported; value chain to customers' gate,Group,149,SCA_2021_Annual_annual-report-2021.pdf,,3. Purchased goods and services | 0.44 | 0.56,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded; limited Scope 3 categories.
+SCA,2021,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2021,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2021,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2021,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2021,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2021,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2021,E-WST-HAZ,reported,2253,MT,"2,253",tonnes,"Hazardous waste, production facilities (first column assumed 2021 total)",Production facilities,160,SCA_2021_Annual_annual-report-2021.pdf,,"Hazardous waste | tonnes | 2,253 | 2,310 | 1,878","LLM (Claude agent), not human-checked",1,llm_agent,Table layout garbled.
+SCA,2021,S-EMP,reported,3373,persons,"3,373",persons,Number of employees at Dec 31,Group,159,SCA_2021_Annual_annual-report-2021.pdf,,"Number of employees1) | 3,373 | 3,829 | 4,118","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2021,S-WOMEN-PCT,reported,22,%,22%,%,"Share of women, all employees",Group,159,SCA_2021_Annual_annual-report-2021.pdf,,"Share of women, all employees | 22% | 21% | 19%","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2021,S-LTIFR,reported,5.8,rate,5.8,"LTA/1,000,000 WH","LTA per 1,000,000 hours worked; employees",Group,159,SCA_2021_Annual_annual-report-2021.pdf,,"Workplace accident Frequency Rate, FR, (LTA/1,000,000 WH) | 5.8 | 5.6 | 7.4","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2021,S-FATAL,reported,0,persons,0,persons,Employees 0; contractors 0 fatal (CLTA 36 (0)),Group,159,SCA_2021_Annual_annual-report-2021.pdf,,Fatal accidents | 0 | 0 | 0; CLTA ... 36 (0),"LLM (Claude agent), not human-checked",0,llm_agent,Employees and contractors.
+SCA,2021,G-BOARD-SIZE,reported,10,persons,Ten,members,AGM-elected Board members (plus 3 employee representatives),Group,73,SCA_2021_Annual_annual-report-2021.pdf,,Ten Board members were appointed at the 2021 AGM.,"LLM (Claude agent), not human-checked",0,llm_agent,13 incl. employee representatives.
+SCA,2021,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2021,G-BOARD-WOMEN-PCT,reported,40,%,40%,%,Board excl. employee representatives (row label missing; 38% incl.),Group,159,SCA_2021_Annual_annual-report-2021.pdf,,Gender equality | 40% | 33% | 40% | 38% | 36% | 38%,"LLM (Claude agent), not human-checked",1,llm_agent,Row label missing in pack.
+SCA,2021,FIN_REV,unclear,,SEK m,,,,Group,92,SCA_2021_Annual_annual-report-2021.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only Sweden sold-by figure in pack; group total not shown.
+SCA,2022,GHG_S1,reported,261000,tCO2e,261,thousand tonnes CO2e,Scope 1 direct emissions incl. own vessels,Group,160,SCA_2022_Annual_sca-annual-report-2022.pdf,,Scope 1: Direct emissions from industrial1) processes | 261 | 240 | 278,"LLM (Claude agent), not human-checked",0,llm_agent,"kt x1,000"
+SCA,2022,GHG_S2,reported,46000,tCO2e,46,thousand tonnes CO2e,Scope 2 purchased electricity and district heating; basis not stated (2023 report labels 46 as location-based),Group,160,SCA_2022_Annual_sca-annual-report-2022.pdf,,Scope 2: Indirect emissions from purchased electricity and district heating | 46 | 40 | 58,"LLM (Claude agent), not human-checked",1,llm_agent,Basis not stated in own report.
+SCA,2022,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2022,GHG_S3,reported,433000,tCO2e,433,thousand tonnes CO2e,"Scope 3 categories 1,3,4,5,6",Group,160,SCA_2022_Annual_sca-annual-report-2022.pdf,,Scope 3: Emissions in the value chain | 433 | 440 | 571,"LLM (Claude agent), not human-checked",0,llm_agent,Limited categories.
+SCA,2022,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2022,EN_ELEC,reported,1631000000,kWh,"1,631",GWh,Electricity consumption: co-generation + grid supply total,Group,170,SCA_2022_Annual_sca-annual-report-2022.pdf,,"ENERGY CONSUMPTION | Electricity | ... | TOTAL | GWh | 1,631","LLM (Claude agent), not human-checked",1,llm_agent,"Table garbled; co-generation 1,012 + grid 618 GWh."
+SCA,2022,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2022,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2022,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2022,E-WST-GEN,unclear,,MT,,,,Group,170,SCA_2022_Annual_sca-annual-report-2022.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Solid waste figures garbled (83,391 | 13,923 | 16,688)."
+SCA,2022,E-WST-HAZ,reported,2537,MT,"2,537",tonnes,"Hazardous waste, production facilities (first column assumed 2022 total)",Production facilities,170,SCA_2022_Annual_sca-annual-report-2022.pdf,,"Hazardous waste | tonnes | 2,537 | 2,253 | 2,310","LLM (Claude agent), not human-checked",1,llm_agent,Table layout garbled.
+SCA,2022,S-EMP,reported,3313,persons,"3,313",persons,Average number of employees (year-end not in own report),Group,156,SCA_2022_Annual_sca-annual-report-2022.pdf,,"Average number of employees | 3,313 | 3,577 | 4,196","LLM (Claude agent), not human-checked",1,llm_agent,"Average, not year-end headcount."
+SCA,2022,S-WOMEN-PCT,reported,23,%,23%,%,Share of women,Group,156,SCA_2022_Annual_sca-annual-report-2022.pdf,,Share of women2) | 23% | 22% | 21%,"LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2022,S-LTIFR,reported,3.1,rate,3.1,LTA per million hours,LTA per million hours worked; employees (multi-year summary),Group,187,SCA_2022_Annual_sca-annual-report-2022.pdf,,3.1 | 5.8 | 5.6 | 7.4 | 9.1 | 10.4,"LLM (Claude agent), not human-checked",1,llm_agent,Row label missing in pack; labelled in 2024 report.
+SCA,2022,S-FATAL,unclear,,persons,,,,Group,156,SCA_2022_Annual_sca-annual-report-2022.pdf,,CLTA6) (of which fatal accidents)7) | 29 (1),"LLM (Claude agent), not human-checked",0,llm_agent,Employee fatalities not shown in own pack; contractors 1 fatal (CLTA 29 (1)).
+SCA,2022,G-BOARD-SIZE,reported,10,persons,8 re-elected + 2 new,members,"AGM-elected Board members (count of names), excl. employee reps",Group,78,SCA_2022_Annual_sca-annual-report-2022.pdf,,"re-election of Board members Pär Boman, ... and the election of new Board members Åsa Bergman and Karl Åberg","LLM (Claude agent), not human-checked",1,llm_agent,Counted from names.
+SCA,2022,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2022,G-BOARD-WOMEN-PCT,reported,40,%,40%,%,Board excl. employee representatives (row label missing; 38% incl.),Group,156,SCA_2022_Annual_sca-annual-report-2022.pdf,,38% | 38% | 36% | 40% | 40% | 33%,"LLM (Claude agent), not human-checked",1,llm_agent,Row label missing in pack.
+SCA,2022,FIN_REV,unclear,,SEK m,,,,Group,172,SCA_2022_Annual_sca-annual-report-2022.pdf,,"Total (A + B) | 23,957 | 100%","LLM (Claude agent), not human-checked",0,llm_agent,"Own report shows only taxonomy turnover/revenue SEK 23,957m (incl. other income); 2023 report gives net sales 20,794 (prior-year)."
+SCA,2023,GHG_S1,reported,258000,tCO2e,258,thousand tonnes CO2e,Gross Scope 1 incl. own vessels,Group,159,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,Gross Scope 1 GHG emissions | 278 | 261 | 258,"LLM (Claude agent), not human-checked",0,llm_agent,"kt x1,000; 2024 report restates 2023 as 287,100."
+SCA,2023,GHG_S2,reported,33000,tCO2e,33,thousand tonnes CO2e,Gross location-based Scope 2,Group,159,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,Gross location-based Scope 2 GHG emissions | 58 | 46 | 33,"LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2023,GHG_S2_MB,reported,60000,tCO2e,60,thousand tonnes CO2e,Gross market-based Scope 2,Group,159,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,Gross market-based Scope 2 GHG emissions | 111 | 59 | 60,"LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2023,GHG_S3,reported,521000,tCO2e,521,thousand tonnes CO2e,"Total gross Scope 3 (cat. 1,3,4,5,6)",Group,159,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,Total Gross indirect (Scope 3) GHG emissions | 571 | 433 | 521,"LLM (Claude agent), not human-checked",0,llm_agent,Scope extended in 2023 (+58 kt).
+SCA,2023,EN_TOT,reported,39668007.6,GJ,"11,018,891",MWh,Total energy consumption,Group,161,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,"Total energy consumption | 11,018,891 | 10,556,463 | 11,887,399","LLM (Claude agent), not human-checked",0,llm_agent,"MWh x3.6; 2024 report restates 2023 as 11,645,329 MWh."
+SCA,2023,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2023,EN_REN_PCT,reported,91,%,91%,%,Share of renewable sources of total energy consumption,Group,161,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,Share of renewable sources of total energy consumption | 91% | 90% | 93%,"LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2023,WA_WD,reported,122000000,m3,122,Mm3,Total water withdrawal (cooling and process water),Production facilities,170,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,Total water withdrawal2) | Mm3 | 122 | 123 | 127,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded to Mm3.
+SCA,2023,WA_CONS,unclear,,m3,,,,Group,170,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only withdrawal and effluent (process) water; consumption not defined.
+SCA,2023,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2023,E-WST-HAZ,reported,1223,MT,"1,223",tonnes,"Hazardous waste, production facilities (first column assumed 2023 total)",Production facilities,170,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,"Hazardous waste | tonnes | 1,223 | 2,537 | 2,253","LLM (Claude agent), not human-checked",1,llm_agent,"Table layout garbled; 2024 report restates 2023 as 1,273."
+SCA,2023,S-EMP,reported,3388,persons,"3,388",persons,Total number of employees at year end (incl. non-guaranteed hours),Group,175,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,"Total number of employees | 3,388 | 3,243","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2023,S-WOMEN-PCT,reported,24,%,24%,%,Share of women,Group,175,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,Share of women3) | 24% | 23% | 22%,"LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2023,S-LTIFR,reported,4.3,rate,4.3,LTA per million hours,LTA per million hours worked; employees,Group,172,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,17.0 | 14.4 | 14.3 | 4.3 | 3.1 | 5.8,"LLM (Claude agent), not human-checked",1,llm_agent,Row label missing in pack; matches FR series.
+SCA,2023,S-FATAL,reported,0,persons,0,persons,Employees only,Group,172,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,Fatal accidents | 0 | 0 | 0,"LLM (Claude agent), not human-checked",1,llm_agent,Employees only; contractors 1 fatal (CLTA 19 (1)).
+SCA,2023,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2023,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2023,G-BOARD-WOMEN-PCT,reported,40,%,40%,%,Board excl. employee representatives (row label missing; 38% incl.),Group,175,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,38% | 38% | 38% | 40% | 40% | 40%,"LLM (Claude agent), not human-checked",1,llm_agent,Row label missing in pack.
+SCA,2023,FIN_REV,reported,18081,SEK m,"18,081",SEKm,Net sales,Group,66,SCA_2023_Annual_scas-annual-report-2023_eng_klickbar.pdf,,"Net sales | 18,081 | 20,794 | -13","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2024,GHG_S1,reported,279200,tCO2e,"279,200",tCO2eq,Gross Scope 1 incl. own vessels,Group,164,SCA_2024_Annual_sca_ar24_eng.pdf,,"Gross Scope 1 GHG emissions | 312,500 | 287,100 | 279,200","LLM (Claude agent), not human-checked",0,llm_agent,"2025 report restates 2024 as 278,200."
+SCA,2024,GHG_S2,reported,26700,tCO2e,"26,700",tCO2eq,Gross location-based Scope 2,Group,164,SCA_2024_Annual_sca_ar24_eng.pdf,,"Gross location-based Scope 2 GHG emissions | 58,300 | 28,900 | 26,700","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2024,GHG_S2_MB,reported,104900,tCO2e,"104,900",tCO2eq,Gross market-based Scope 2,Group,164,SCA_2024_Annual_sca_ar24_eng.pdf,,"Gross market-based Scope 2 GHG emissions | 111,500 | 62,700 | 104,900","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2024,GHG_S3,reported,557100,tCO2e,"557,100",tCO2eq,"Total gross Scope 3 (cat. 1,3,4,5,6)",Group,164,SCA_2024_Annual_sca_ar24_eng.pdf,,"Total Gross indirect (Scope 3) GHG emissions | 673,500 | 537,300 | 557,100","LLM (Claude agent), not human-checked",0,llm_agent,"2025 report restates 2024 as 661,200 with more categories."
+SCA,2024,EN_TOT,reported,42076425.6,GJ,"11,687,896",MWh,Total energy consumption,Group,163,SCA_2024_Annual_sca_ar24_eng.pdf,,"Total energy consumption | 11,687,896 | 11,645,329","LLM (Claude agent), not human-checked",0,llm_agent,MWh x3.6
+SCA,2024,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2024,EN_REN_PCT,reported,87,%,87%,%,Share from renewable sources in total energy,Group,163,SCA_2024_Annual_sca_ar24_eng.pdf,,Share from renewable sources in total energy (%) | 87% | 85%,"LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2024,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2024,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2024,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2024,E-WST-HAZ,reported,904,MT,904,tonnes,"Hazardous waste, production facilities (first column assumed 2024 total)",Production facilities,187,SCA_2024_Annual_sca_ar24_eng.pdf,,"Hazardous waste | tonnes | 904 | 1,273 | 2,562","LLM (Claude agent), not human-checked",1,llm_agent,Table layout garbled.
+SCA,2024,S-EMP,reported,3373,persons,"3,373",persons,Head count at Dec 31,Group,176,SCA_2024_Annual_sca_ar24_eng.pdf,,"Total employees | 3,373","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2024,S-WOMEN-PCT,reported,24.31,%,"820 of 3,373",count,Computed female head count / total x100,Group,176,SCA_2024_Annual_sca_ar24_eng.pdf,,"Employee head count by gender | Female | 820 | Total employees | 3,373","LLM (Claude agent), not human-checked",1,llm_agent,Computed from counts.
+SCA,2024,S-LTIFR,reported,3.1,rate,3.1,LTA per million hours,LTA per million hours worked; employees,Group,197,SCA_2024_Annual_sca_ar24_eng.pdf,,"Workplace accident Frequency Rate, LTA per million hours worked | 3.1 | 4.3","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2024,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2024,G-BOARD-SIZE,reported,9,persons,Nine,members,AGM-elected Board members (plus 3 employee representatives),Group,81,SCA_2024_Annual_sca_ar24_eng.pdf,,Nine Board members were appointed at the 2024 AGM.,"LLM (Claude agent), not human-checked",0,llm_agent,12 incl. employee representatives.
+SCA,2024,G-BOARD-IND-PCT,unclear,,%,,,,Group,81,SCA_2024_Annual_sca_ar24_eng.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Independence table garbled in pack; 2025 report gives 89% for 2024 (prior-year).
+SCA,2024,G-BOARD-WOMEN-PCT,reported,55.56,%,five women of nine,count,Computed 5/9 x100; excl. employee representatives,Group,81,SCA_2024_Annual_sca_ar24_eng.pdf,,"appointment of nine Board members, of whom five are women and four men","LLM (Claude agent), not human-checked",1,llm_agent,Count from Nomination Committee proposal; 2025 report confirms 56% for 2024.
+SCA,2024,FIN_REV,reported,20232,SEK m,"20,232",SEKm,Net sales,Group,66,SCA_2024_Annual_sca_ar24_eng.pdf,,"Net sales | 20,232 | 18,081 | 12","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2025,GHG_S1,reported,276000,tCO2e,"276,000",t CO2e,Gross Scope 1 incl. own vessels and contractor harvesting,Group,128,SCA_2025_Annual_sca-annual-report-2025.pdf,,"Gross Scope 1 GHG emissions | 312,500 | 278,200 | 276,000","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2025,GHG_S2,reported,21700,tCO2e,"21,700",t CO2e,Gross location-based Scope 2,Group,128,SCA_2025_Annual_sca-annual-report-2025.pdf,,"Gross location-based Scope 2 GHG emissions | 58,300 | 26,700 | 21,700","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2025,GHG_S2_MB,reported,121500,tCO2e,"121,500",t CO2e,Gross market-based Scope 2,Group,128,SCA_2025_Annual_sca-annual-report-2025.pdf,,"Gross market-based Scope 2 GHG emissions | 111,500 | 104,900 | 121,500","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2025,GHG_S3,reported,683800,tCO2e,"683,800",t CO2e,Total gross Scope 3 (expanded categories incl. 2 and 10),Group,128,SCA_2025_Annual_sca-annual-report-2025.pdf,,"Total Gross indirect Scope 3 GHG emissions | 750,000 | 661,200 | 683,800","LLM (Claude agent), not human-checked",0,llm_agent,Scope 3 boundary expanded vs 2024 report.
+SCA,2025,EN_TOT,reported,41543532,GJ,"11,539,870",MWh,Total energy consumption,Group,127,SCA_2025_Annual_sca-annual-report-2025.pdf,,"Total energy consumption | 11,539,870 | 11,673,370","LLM (Claude agent), not human-checked",0,llm_agent,MWh x3.6
+SCA,2025,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2025,EN_REN_PCT,reported,87,%,87%,%,Share from renewable sources in total energy,Group,127,SCA_2025_Annual_sca-annual-report-2025.pdf,,Share from renewable sources in total energy (%) | 87% | 87%,"LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2025,WA_WD,reported,129000000,m3,129,million m3,Total withdrawal of water (water use),Group,139,SCA_2025_Annual_sca-annual-report-2025.pdf,,Total withdrawal of water (water use) | 129 | 126,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded to million m3.
+SCA,2025,WA_CONS,reported,6000000,m3,6,million m3,Total water consumption (estimated ~5% of withdrawal per IVL report U3016),Group,139,SCA_2025_Annual_sca-annual-report-2025.pdf,,Total water consumption | 6 | 6,"LLM (Claude agent), not human-checked",1,llm_agent,Estimate-based; rounded.
+SCA,2025,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2025,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2025,S-EMP,reported,3424,persons,"3,424",persons,"Head count at Dec 31, 2025",Group,154,SCA_2025_Annual_sca-annual-report-2025.pdf,,"Total employees | 3,424","LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2025,S-WOMEN-PCT,reported,25.09,%,"859 of 3,424",count,Computed female head count / total x100,Group,154,SCA_2025_Annual_sca-annual-report-2025.pdf,,"Employee head count by gender | Female | 859 | Total employees | 3,424","LLM (Claude agent), not human-checked",1,llm_agent,Computed from counts.
+SCA,2025,S-LTIFR,reported,3.9,rate,3.9,LTA per million hours,LTA per million hours worked (bracket value; headline now TRI rate 10.0),Group,225,SCA_2025_Annual_sca-annual-report-2025.pdf,,"Workplace accident frequency rate, TRI per million hours worked7) | 10.0 (3.9)","LLM (Claude agent), not human-checked",1,llm_agent,SCA switched to TRI rate in 2025; bracketed 3.9 interpreted as LTA FR per footnote.
+SCA,2025,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in pack.
+SCA,2025,G-BOARD-SIZE,reported,9,persons,1 + 8,members,Board excl. workers' representatives: 1 executive + 8 non-executive,Group,101,SCA_2025_Annual_sca-annual-report-2025.pdf,,Number of executive Board members | 1 (1) | Number of non-executive Board members | 8 (8),"LLM (Claude agent), not human-checked",1,llm_agent,Sum of executive+non-executive; 12 incl. workers' reps.
+SCA,2025,G-BOARD-IND-PCT,reported,89,%,89%,%,Independent Board members excl. workers' reps (92% incl.),Group,101,SCA_2025_Annual_sca-annual-report-2025.pdf,,Percentage of independent Board members2) | 89 (89)% | 92 (92)%,"LLM (Claude agent), not human-checked",0,llm_agent,Independence = no senior position in Company.
+SCA,2025,G-BOARD-WOMEN-PCT,reported,56,%,56%,%,Board excl. workers' representatives (50% incl.),Group,101,SCA_2025_Annual_sca-annual-report-2025.pdf,,Percentage of Board members by gender | 56% (56) women,"LLM (Claude agent), not human-checked",0,llm_agent,
+SCA,2025,FIN_REV,unclear,,SEK m,,,,Group,176,SCA_2025_Annual_sca-annual-report-2025.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only 'revenue' SEK 23,447m (incl. other income) and partial country table; net sales total not shown."
+SCA,2026,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,S-LTIFR,unclear,,rate,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.
+SCA,2026,FIN_REV,unclear,,SEK m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,2026 document is a forestry brochure; no figures in pack.

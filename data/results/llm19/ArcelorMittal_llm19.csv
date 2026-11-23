@@ -1,0 +1,248 @@
+﻿company,data_year,indicator_code,disclosure_status,value_numeric,unit,source_value_text,source_unit,measurement_basis,boundary,pdf_page,source_file,source_url,source_excerpt,verification_status,needs_review,extraction_method,note
+ArcelorMittal,2012,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,S-LTIFR,reported,1,rate,1.0,per million hours worked,"per 1,000,000 hours worked; coverage not stated in this passage",Group,16,ArcelorMittal_2012_sustainability-report_EN.pdf,,reduction in our lost time injury frequency rate (LTIFR) from 1.4 per million hours worked to 1.0,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2012,S-FATAL,reported,29,persons,29,persons,29 colleagues (22 steel + 7 mining); one additional visitor fatality excluded,Group,16,ArcelorMittal_2012_sustainability-report_EN.pdf,,loss of 29 of our colleagues in fatal accidents 22 of them in steel and seven in mining and one visitor,"LLM (Claude agent), not human-checked",1,llm_agent,Employee/contractor split not stated; plus one visitor
+ArcelorMittal,2012,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2012,FIN_REV,unclear,,USD m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,S-LTIFR,reported,0.8,rate,0.8,per million hours worked,"per 1,000,000 hours worked; employees + contractors",Group,14,ArcelorMittal_2013_sustainability-report_EN.pdf,,LTIFR has fallen ... from 3.3 incidents per million hours worked in 2007 to 0.8 in 2013,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2013,S-FATAL,reported,23,persons,23,persons,Coverage not split (steel and mining),Group,14,ArcelorMittal_2013_sustainability-report_EN.pdf,,our performance in 2013 was marred by 23 fatalities,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2013,G-BOARD-SIZE,unclear,,persons,11,persons,,Group,12,ArcelorMittal_2013_sustainability-report_EN.pdf,,"increasing the number of women directors from two to three by the end of 2015, based upon a board size of 11 members","LLM (Claude agent), not human-checked",1,llm_agent,"Only a target context (women directors from two to three, based upon a board size of 11) given; year-end board not confirmed"
+ArcelorMittal,2013,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2013,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,12,ArcelorMittal_2013_sustainability-report_EN.pdf,,increasing the number of women directors from two to three ... board size of 11 members,"LLM (Claude agent), not human-checked",0,llm_agent,Two women directors mentioned but year-end board size not confirmed
+ArcelorMittal,2013,FIN_REV,unclear,,USD m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,S-LTIFR,reported,0.85,rate,0.85,per million hours worked,"per 1,000,000 hours worked; employees + contractors",Group,13,ArcelorMittal_2014_sustainability-report_EN.pdf,,lost-time injury frequency rate has fallen from 3.1 incidents per million hours worked in 2007 to 0.85 in 2014,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2014,S-FATAL,reported,23,persons,23,persons,Steel and mining; coverage not split,Group,13,ArcelorMittal_2014_sustainability-report_EN.pdf,,our performance in 2014 was marred by 23 fatalities,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2014,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2014,FIN_REV,unclear,,USD m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,GHG_S1,reported,176000000,tCO2e,176,million tonnes,Steel and mining,Group,83,ArcelorMittal_2015_sustainability-report_EN.pdf,,Scope 1 CO2e (steel and mining) | million tonnes | 176 | 174,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2015,GHG_S2,reported,16000000,tCO2e,16,million tonnes,"Steel and mining; Single Scope 2 figure, basis (location/market) not stated",Group,83,ArcelorMittal_2015_sustainability-report_EN.pdf,,Scope 2 CO2e (steel and mining) | million tonnes | 16 | 17,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2015,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,GHG_S3,unclear,,tCO2e,13,million tonnes,,Group,83,ArcelorMittal_2015_sustainability-report_EN.pdf,,Scope 3 CO2e (steel and mining) | million tonnes | 13 | 15,"LLM (Claude agent), not human-checked",1,llm_agent,"Labelled Scope 3 but ArcelorMittal Scope 3 covers only limited upstream categories (worldsteel methodology), not total Scope 3"
+ArcelorMittal,2015,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,S-LTIFR,unclear,,rate,0.62,per million hours worked,,Group,113,ArcelorMittal_2015_sustainability-report_EN.pdf,,improvement in our lost-time injury frequency rate (LTIFR) from 0.89 to 0.62,"LLM (Claude agent), not human-checked",1,llm_agent,"LTIFR 0.62 on p113 relates to the Brazil segment, not group"
+ArcelorMittal,2015,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2015,FIN_REV,unclear,,USD m,8.5,USD bn,,Group,113,ArcelorMittal_2015_sustainability-report_EN.pdf,,Our sales for the year were 15.3% down at $8.5 billion,"LLM (Claude agent), not human-checked",1,llm_agent,"$8.5 billion sales on p113 are the Brazil segment, not group"
+ArcelorMittal,2016,GHG_S1,reported,176000000,tCO2e,176,million tonnes CO2e,Steel and mining,Group,179,ArcelorMittal_2016_sustainability-report_EN.pdf,,Scope 1 CO2e (steel and mining) | million tonnes CO2e | 174 | 176 | 176,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2016,GHG_S2,reported,14000000,tCO2e,14,million tonnes CO2e,"Steel and mining; Single Scope 2 figure, basis (location/market) not stated",Group,179,ArcelorMittal_2016_sustainability-report_EN.pdf,,Scope 2 CO2e (steel and mining) | million tonnes CO2e | 17 | 16 | 14,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2016,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2016,GHG_S3,unclear,,tCO2e,14,million tonnes CO2e,,Group,179,ArcelorMittal_2016_sustainability-report_EN.pdf,,Scope 3 CO2e (steel and mining) | million tonnes CO2e | 12 | 13 | 14,"LLM (Claude agent), not human-checked",1,llm_agent,"Labelled Scope 3 but ArcelorMittal Scope 3 covers only limited upstream categories (worldsteel methodology), not total Scope 3"
+ArcelorMittal,2016,EN_TOT,unclear,,GJ,"2,158",PJ,,Group,179,ArcelorMittal_2016_sustainability-report_EN.pdf,,"Primary energy consumption (steel) | million GJ (PJ) | 2,221 | 2,142 | 2,158","LLM (Claude agent), not human-checked",1,llm_agent,Primary energy consumption reported for steel only (mining excluded): partial scope
+ArcelorMittal,2016,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2016,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2016,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2016,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2016,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2016,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2016,S-EMP,reported,198517,persons,"198,517",number,"Headcount, total; year-end/average not stated",Group,178,ArcelorMittal_2016_sustainability-report_EN.pdf,,"Number of employees - total | 222,327 | 209,404 | 198,517","LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2016,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2016,S-LTIFR,reported,0.82,rate,0.82,per million hours worked,"per 1,000,000 hours worked; employees + contractors",Group,178,ArcelorMittal_2016_sustainability-report_EN.pdf,,Lost-time injury rate - total* | per million hours worked | 0.85 | 0.81 | 0.82,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2016,S-FATAL,reported,17,persons,17,number,Steel + mining total,Group,178,ArcelorMittal_2016_sustainability-report_EN.pdf,,Fatalities - total | number | 23 | 27 | 17,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2016,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2016,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2016,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2016,FIN_REV,unclear,,USD m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2017,GHG_S1,reported,179000000,tCO2e,179,million tonnes CO2e,Steel and mining,Group,159,ArcelorMittal_2017_sustainability-report_EN.pdf,,Scope 1 CO2e (steel and mining) | million tonnes CO2e | 176 | 176 | 179,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2017,GHG_S2,reported,15000000,tCO2e,15,million tonnes CO2e,"Steel and mining; Single Scope 2 figure, basis (location/market) not stated",Group,159,ArcelorMittal_2017_sustainability-report_EN.pdf,,Scope 2 CO2e (steel and mining) | million tonnes CO2e | 16 | 14 | 15,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2017,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2017,GHG_S3,unclear,,tCO2e,14,million tonnes CO2e,,Group,159,ArcelorMittal_2017_sustainability-report_EN.pdf,,Scope 3 CO2e (steel and mining) | million tonnes CO2e | 15 | 14 | 14,"LLM (Claude agent), not human-checked",1,llm_agent,"Labelled Scope 3 but ArcelorMittal Scope 3 covers only limited upstream categories (worldsteel methodology), not total Scope 3"
+ArcelorMittal,2017,EN_TOT,unclear,,GJ,"2,214",PJ,,Group,158,ArcelorMittal_2017_sustainability-report_EN.pdf,,"Primary energy consumption (steel) | million GJ (PJ) | 2,238 | 2,168 | 2,214","LLM (Claude agent), not human-checked",1,llm_agent,Primary energy consumption reported for steel only (mining excluded): partial scope
+ArcelorMittal,2017,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2017,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2017,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2017,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2017,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2017,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2017,S-EMP,reported,197108,persons,"197,108",number,"Headcount, total; year-end/average not stated",Group,157,ArcelorMittal_2017_sustainability-report_EN.pdf,,"Number of employees - total | 209,404 | 198,517 | 197,108","LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2017,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2017,S-LTIFR,reported,0.78,rate,0.78,per million hours worked,"per 1,000,000 hours worked; employees + contractors",Group,157,ArcelorMittal_2017_sustainability-report_EN.pdf,,Lost-time injury rate - total | per million hours worked | 0.81 | 0.82 | 0.78,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2017,S-FATAL,reported,23,persons,23,number,Employees + contractors (16 own + 7 contractors),Group,157,ArcelorMittal_2017_sustainability-report_EN.pdf,,Fatalities - total | number | 27 | 17 | 23,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2017,G-BOARD-SIZE,unclear,,persons,,,,Group,33,ArcelorMittal_2017_sustainability-report_EN.pdf,,The members of the board of directors are set out below,"LLM (Claude agent), not human-checked",0,llm_agent,Board member list on p33 is truncated in the pack
+ArcelorMittal,2017,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2017,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2017,FIN_REV,unclear,,USD m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2018,GHG_S1,unclear,,tCO2e,,,,Group,33,ArcelorMittal_2018_sustainability-report_EN.pdf,,steel Scope 1 167.35 | mining Scope 1 6.60,"LLM (Claude agent), not human-checked",0,llm_agent,Only steel (167.35 Mt) and mining (6.60 Mt) Scope 1 given separately; not summed per spec
+ArcelorMittal,2018,GHG_S2,unclear,,tCO2e,,,,Group,33,ArcelorMittal_2018_sustainability-report_EN.pdf,,steel Scope 2 12.12 | mining Scope 2 1.95,"LLM (Claude agent), not human-checked",0,llm_agent,Only steel (12.12 Mt) and mining (1.95 Mt) Scope 2 given separately; not summed
+ArcelorMittal,2018,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2018,GHG_S3,unclear,,tCO2e,,,,Group,33,ArcelorMittal_2018_sustainability-report_EN.pdf,,steel Scope 3 14.65 | mining Scope 3 0.14,"LLM (Claude agent), not human-checked",0,llm_agent,"Labelled Scope 3 but ArcelorMittal Scope 3 covers only limited upstream categories (worldsteel methodology), not total Scope 3; also split steel/mining only"
+ArcelorMittal,2018,EN_TOT,unclear,,GJ,"2,196",PJ,,Group,15,ArcelorMittal_2018_sustainability-report_EN.pdf,,"2,196 PJ primary energy consumed in steelmaking","LLM (Claude agent), not human-checked",1,llm_agent,Primary energy consumption reported for steel only (mining excluded): partial scope
+ArcelorMittal,2018,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2018,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2018,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2018,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2018,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2018,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2018,S-EMP,reported,208583,persons,"208,583",employees,"Headcount, total",Group,35,ArcelorMittal_2018_sustainability-report_EN.pdf,,"Total employees ... Total | 208,583","LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2018,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2018,S-LTIFR,reported,0.69,rate,0.69*,per million hours worked,"per 1,000,000 hours worked; employees + contractors",Group,15,ArcelorMittal_2018_sustainability-report_EN.pdf,,LTIFR down to 0.69*,"LLM (Claude agent), not human-checked",1,llm_agent,Asterisked; likely excludes Ilva (acquired Nov 2018)
+ArcelorMittal,2018,S-FATAL,reported,10,persons,10,fatalities,Steel and mining; coverage not split,Group,15,ArcelorMittal_2018_sustainability-report_EN.pdf,,10 fatalities,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2018,G-BOARD-SIZE,reported,9,persons,nine,directors,Board of Directors,Group,53,ArcelorMittal_2018_sustainability-report_EN.pdf,,The Board of Directors is composed of nine directors,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2018,G-BOARD-IND-PCT,reported,55.6,%,five of nine,directors,Computed 5/9 x100,Group,53,ArcelorMittal_2018_sustainability-report_EN.pdf,,"composed of nine directors, of which eight are non-executive directors and five are independent directors","LLM (Claude agent), not human-checked",1,llm_agent,
+ArcelorMittal,2018,G-BOARD-WOMEN-PCT,reported,33,%,33%,%,Board of Directors,Group,15,ArcelorMittal_2018_sustainability-report_EN.pdf,,Women make up 33% of the Board of Directors,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2018,FIN_REV,unclear,,USD m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2019,GHG_S1,unclear,,tCO2e,,,,Group,49,ArcelorMittal_2019_sustainability-report_EN.pdf,,steel Scope 1 161.1 | mining Scope 1 8.6,"LLM (Claude agent), not human-checked",0,llm_agent,Only steel (161.1 Mt) and mining (8.6 Mt) Scope 1 given separately; not summed
+ArcelorMittal,2019,GHG_S2,unclear,,tCO2e,,,,Group,49,ArcelorMittal_2019_sustainability-report_EN.pdf,,steel Scope 2 10.7 | mining Scope 2 2.0,"LLM (Claude agent), not human-checked",0,llm_agent,Only steel (10.7 Mt) and mining (2.0 Mt) Scope 2 given separately; not summed
+ArcelorMittal,2019,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2019,GHG_S3,unclear,,tCO2e,,,,Group,49,ArcelorMittal_2019_sustainability-report_EN.pdf,,steel Scope 3 13.5 | mining Scope 3 0.1,"LLM (Claude agent), not human-checked",0,llm_agent,"Labelled Scope 3 but ArcelorMittal Scope 3 covers only limited upstream categories (worldsteel methodology), not total Scope 3; also split steel/mining only"
+ArcelorMittal,2019,EN_TOT,unclear,,GJ,"2,124",PJ,,Group,13,ArcelorMittal_2019_sustainability-report_EN.pdf,,2.124 PJ primary energy consumed in steelmaking,"LLM (Claude agent), not human-checked",1,llm_agent,Primary energy consumption reported for steel only (mining excluded): partial scope
+ArcelorMittal,2019,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2019,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2019,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2019,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2019,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2019,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2019,S-EMP,reported,191248,persons,"191,248",employees,"Headcount, total",Group,13,ArcelorMittal_2019_sustainability-report_EN.pdf,,"191,248 employees","LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2019,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2019,S-LTIFR,reported,1.21,rate,1.21,per million hours worked,"per 1,000,000 hours worked; including ArcelorMittal Italia",Group,18,ArcelorMittal_2019_sustainability-report_EN.pdf,,"LTIFR was 0.75 excluding ArcelorMittal Italia, and 1.21 including ArcelorMittal","LLM (Claude agent), not human-checked",1,llm_agent,0.75 excluding ArcelorMittal Italia
+ArcelorMittal,2019,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2019,G-BOARD-SIZE,reported,9,persons,8 non-executive + 1 executive,directors,Board of Directors; computed 8+1 (sentence start truncated),Group,66,ArcelorMittal_2019_sustainability-report_EN.pdf,,eight are non-executive directors and five are independent directors. The one executive director,"LLM (Claude agent), not human-checked",1,llm_agent,
+ArcelorMittal,2019,G-BOARD-IND-PCT,reported,55.6,%,five of nine,directors,Computed 5/9 x100,Group,66,ArcelorMittal_2019_sustainability-report_EN.pdf,,eight are non-executive directors and five are independent directors,"LLM (Claude agent), not human-checked",1,llm_agent,
+ArcelorMittal,2019,G-BOARD-WOMEN-PCT,reported,33,%,33%,%,Board of Directors,Group,13,ArcelorMittal_2019_sustainability-report_EN.pdf,,Women make up 33% of the Board of Directors,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2019,FIN_REV,unclear,,USD m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,S-LTIFR,unclear,,rate,0.61,per million hours worked,,Group,3,ArcelorMittal_2020_sustainability-report_EN.pdf,,SAFETY – LTIFR1 (incidents per million hours worked) | 0.61,"LLM (Claude agent), not human-checked",1,llm_agent,0.61 excludes Ilva/ArcelorMittal Italia: partial scope
+ArcelorMittal,2020,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,G-BOARD-SIZE,reported,10,persons,ten,Board members,Board of Directors,Group,55,ArcelorMittal_2020_sustainability-report_EN.pdf,,"in 2020, women represented 30% of our ten Board members","LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2020,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2020,G-BOARD-WOMEN-PCT,reported,30,%,30%,%,Board of Directors,Group,55,ArcelorMittal_2020_sustainability-report_EN.pdf,,"in 2020, women represented 30% of our ten Board members","LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2020,FIN_REV,unclear,,USD m,53,USD bn,,Group,3,ArcelorMittal_2020_sustainability-report_EN.pdf,,2020 | $53 billion,"LLM (Claude agent), not human-checked",1,llm_agent,$53bn shown on p3 but label not clear in the pack
+ArcelorMittal,2021,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,S-WOMEN-PCT,reported,17,%,17%,%,Total workforce,Group,40,ArcelorMittal_2021_sustainability-report_EN.pdf,,"In 2021, women accounted for 17% of our total workforce","LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2021,S-LTIFR,unclear,,rate,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,G-BOARD-SIZE,reported,11,persons,11,Board members,Board of Directors,Group,47,ArcelorMittal_2021_sustainability-report_EN.pdf,,women represented 36% of the 11 Board members in 2021,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2021,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2021,G-BOARD-WOMEN-PCT,reported,36,%,36%,%,Board of Directors,Group,47,ArcelorMittal_2021_sustainability-report_EN.pdf,,women represented 36% of the 11 Board members in 2021,"LLM (Claude agent), not human-checked",1,llm_agent,Rounded (4/11)
+ArcelorMittal,2021,FIN_REV,unclear,,USD m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,S-WOMEN-PCT,reported,17,%,17%,%,Total workforce,Group,56,ArcelorMittal_2022_sustainability-report_EN.pdf,,"In 2022, women accounted for 17% of our total workforce","LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2022,S-LTIFR,reported,0.7,rate,0.70,per million hours worked,"per 1,000,000 hours worked; employees + contractors",Group,19,ArcelorMittal_2022_sustainability-report_EN.pdf,,The group's LTIFR improved to 0.70 from 0.79 in 2021,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2022,S-FATAL,reported,22,persons,22,persons,All segments total,Group,19,ArcelorMittal_2022_sustainability-report_EN.pdf,,Fatalities 2022 ... Total | 0.79 | 0.70 | 29 | 22,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2022,G-BOARD-SIZE,reported,10,persons,10,Board members,Board of Directors,Group,64,ArcelorMittal_2022_sustainability-report_EN.pdf,,the number of women on the Board from four to three of the total of 10 Board members,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2022,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2022,G-BOARD-WOMEN-PCT,reported,30,%,three of 10,Board members,Computed 3/10 x100,Group,64,ArcelorMittal_2022_sustainability-report_EN.pdf,,the number of women on the Board from four to three of the total of 10 Board members,"LLM (Claude agent), not human-checked",1,llm_agent,
+ArcelorMittal,2022,FIN_REV,reported,79844,USD m,"79,844",$mn,Group turnover (EU Taxonomy table),Group,70,ArcelorMittal_2022_sustainability-report_EN.pdf,,"Turnover ... Total | 79,844 | 100%","LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2023,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2023,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2023,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2023,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2023,EN_TOT,unclear,,GJ,"1,379",PJ,,Group,88,ArcelorMittal_2023_sustainability-report_EN.pdf,,"Primary energy consumption (steel) | 1,379 | Petajoules","LLM (Claude agent), not human-checked",1,llm_agent,Primary energy consumption reported for steel only (mining excluded): partial scope
+ArcelorMittal,2023,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2023,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2023,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2023,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2023,E-WST-GEN,unclear,,MT,,,,Group,88,ArcelorMittal_2023_sustainability-report_EN.pdf,,"Waste (non-used residues) landfilled (steel) | 3,244,618 | Tonnes","LLM (Claude agent), not human-checked",0,llm_agent,"Only landfilled and in-storage non-used residues (steel) reported, not total waste generated"
+ArcelorMittal,2023,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2023,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2023,S-WOMEN-PCT,reported,14.8,%,14.8%,%,"Group workforce, after departure of ArcelorMittal Temirtau",Group,65,ArcelorMittal_2023_sustainability-report_EN.pdf,,Total female representation across the group workforce is now 14.8%,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2023,S-LTIFR,reported,0.92,rate,0.92,per million hours worked,"per 1,000,000 hours worked; employees + contractors; including Kazakhstan",Group,88,ArcelorMittal_2023_sustainability-report_EN.pdf,,Lost-time injury frequency rate (total) | 0.92 | Per million hours worked,"LLM (Claude agent), not human-checked",0,llm_agent,0.70 excluding Kazakhstan
+ArcelorMittal,2023,S-FATAL,reported,61,persons,61,Number,Total incl. Kazakhstan,Group,88,ArcelorMittal_2023_sustainability-report_EN.pdf,,Fatalities (total) | 61 | Number,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2023,G-BOARD-SIZE,reported,10,persons,10,Board Directors,Board of Directors,Group,74,ArcelorMittal_2023_sustainability-report_EN.pdf,,there are four women out of the 10 Board Directors,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2023,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2023,G-BOARD-WOMEN-PCT,reported,40,%,40%,%,Board of Directors,Group,65,ArcelorMittal_2023_sustainability-report_EN.pdf,,40% of Board Directors are women,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2023,FIN_REV,reported,68275,USD m,"$68,275m",USD m,Group turnover,Group,82,ArcelorMittal_2023_sustainability-report_EN.pdf,,"The company's turnover in 2023 was $68,275m","LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2024,GHG_S1,reported,97000000,tCO2e,97.0,million tonnes,Steel and mining,Group,39,ArcelorMittal_2024_sustainability-report_EN.pdf,,Scope 1 CO2e | million tonnes | 113.4 | 108.2 | 97.0,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2024,GHG_S2,reported,5500000,tCO2e,5.5,million tonnes,"Location-based, steel and mining",Group,39,ArcelorMittal_2024_sustainability-report_EN.pdf,,"Scope 2, location-based CO2e | million tonnes | 6.0 | 8.5 | 5.5","LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2024,GHG_S2_MB,reported,4900000,tCO2e,4.9,million tonnes,"Market-based, steel and mining",Group,39,ArcelorMittal_2024_sustainability-report_EN.pdf,,"Scope 2, market-based CO2e | million tonnes | 5.9 | 6.6 | 4.9","LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2024,GHG_S3,unclear,,tCO2e,8.4,million tonnes,,Group,39,ArcelorMittal_2024_sustainability-report_EN.pdf,,Scope 3 CO2e | million tonnes | 6.4 | 6.3 | 8.4,"LLM (Claude agent), not human-checked",1,llm_agent,"Labelled Scope 3 but ArcelorMittal Scope 3 covers only limited upstream categories (worldsteel methodology), not total Scope 3"
+ArcelorMittal,2024,EN_TOT,unclear,,GJ,1278,PJ,,Group,38,ArcelorMittal_2024_sustainability-report_EN.pdf,,Primary energy consumption (steel) | PJ | 1 392 | 1379 | 1278,"LLM (Claude agent), not human-checked",1,llm_agent,Primary energy consumption reported for steel only (mining excluded): partial scope
+ArcelorMittal,2024,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2024,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2024,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2024,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2024,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2024,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2024,S-EMP,reported,125416,persons,"125,416",number,"Headcount, total",Group,36,ArcelorMittal_2024_sustainability-report_EN.pdf,,"Number of employees (total) | number | 154,352 | 126,756 | 125,416","LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2024,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2024,S-LTIFR,reported,0.7,rate,0.70,per million hours worked,"per 1,000,000 hours worked; employees + contractors",Group,36,ArcelorMittal_2024_sustainability-report_EN.pdf,,Lost-time injury frequency rate (total)* | per million hours worked | 0.70 | 0.92 | 0.70,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2024,S-FATAL,reported,13,persons,13,number,Employees + contractors (6 own + 7 contractors),Group,36,ArcelorMittal_2024_sustainability-report_EN.pdf,,Fatalities (total)* | number | 22 | 61 | 13,"LLM (Claude agent), not human-checked",0,llm_agent,
+ArcelorMittal,2024,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2024,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2024,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack
+ArcelorMittal,2024,FIN_REV,unclear,,USD m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack

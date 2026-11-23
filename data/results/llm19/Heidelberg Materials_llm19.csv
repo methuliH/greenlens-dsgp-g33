@@ -1,0 +1,229 @@
+﻿company,data_year,indicator_code,disclosure_status,value_numeric,unit,source_value_text,source_unit,measurement_basis,boundary,pdf_page,source_file,source_url,source_excerpt,verification_status,needs_review,extraction_method,note
+Heidelberg Materials,2010,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2010,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2010,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2010,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2010,EN_TOT,unclear,,GJ,,,,Group,p45,Heidelberg Materials_2010_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only cement business line energy (GJ) label; value not legible; not group total.
+Heidelberg Materials,2010,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2010,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2010,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2010,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2010,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2010,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2010,S-EMP,reported,53437,persons,"53,437",persons,"Employees, Total (year-end assumed)",Group,p47,Heidelberg Materials_2010_sustainability-report_EN.pdf,,"2010 | 14,302 | 9,959 | 11,899 | 13,682 | 3,539 | 55 | 53,437 ... – Group Services | – Total","LLM (Claude agent), not human-checked",1,llm_agent,Column alignment reconstructed from fragmented table; regional values match AR 2011 year-end figures.
+Heidelberg Materials,2010,S-WOMEN-PCT,reported,15.3,%,15.3%,%,Women among total employees,Group,p47,Heidelberg Materials_2010_sustainability-report_EN.pdf,,"53,437 | 15.3% | 4.9% | 8.0% | 15.0% ... Proportion | – Women among total employees | – Part-time employees","LLM (Claude agent), not human-checked",1,llm_agent,Label-value alignment reconstructed from fragmented table.
+Heidelberg Materials,2010,S-LTIFR,unclear,,rate,,,,Group,p47,Heidelberg Materials_2010_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,2010 column of safety table not legible in pack; AR 2011 gives 2010 accident frequency rate 4.3.
+Heidelberg Materials,2010,S-FATAL,unclear,,persons,,,,Group,p47,Heidelberg Materials_2010_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Fatality counts for 2010 not legible in pack (only 2008 column).
+Heidelberg Materials,2010,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2010,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2010,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2010,FIN_REV,unclear,,EUR m,,,,Group,p44,Heidelberg Materials_2010_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,'Turnover' label present but 2010 value not in pack.
+Heidelberg Materials,2011,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,S-EMP,unclear,,persons,,,,Group,p160,Heidelberg Materials_2011_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only Group-area employee counts; not summed per spec.
+Heidelberg Materials,2011,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,S-LTIFR,reported,3.8,rate,3.8,,"Accidents with >=1 lost working day per 1,000,000 hours worked; Group employees only",Group,p106,Heidelberg Materials_2011_annual-report_EN.pdf,,Accident frequency rate 1) | 5.8 | 4.8 | 4.5 | 4.3 | 3.8 (2007-2011),"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,S-FATAL,unclear,,persons,,,,Group,p106,Heidelberg Materials_2011_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only fatality rate (0.6 per 10,000 employees), no count."
+Heidelberg Materials,2011,G-BOARD-SIZE,unclear,,persons,,,,Group,p143,Heidelberg Materials_2011_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Supervisory Board remuneration table truncated; member count not determinable.
+Heidelberg Materials,2011,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2011,FIN_REV,unclear,,EUR m,,,,Group,p160,Heidelberg Materials_2011_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only Group-area/business-line revenue in pack. SR 2012 states 2011 Group turnover EUR 12,902m."
+Heidelberg Materials,2012,GHG_S1,unclear,,tCO2e,46.8 / 47.4 (million t),,,Group,p45,Heidelberg Materials_2012_sustainability-report_EN.pdf,,... 39.1 | 46.8 | 44.1 | 645.2 | 607.5 | 6.4 ... 39.1 | 47.4 | 44.7 | 656.5 | 618.7 | 6.0,"LLM (Claude agent), not human-checked",1,llm_agent,CO2 table values without labels/years; cement business line only. Not assignable.
+Heidelberg Materials,2012,GHG_S2,unclear,,tCO2e,,,,Group,p45,Heidelberg Materials_2012_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",1,llm_agent,Indirect CO2 values (6.4/6.0?) not assignable to year; cement only.
+Heidelberg Materials,2012,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2012,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2012,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2012,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2012,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2012,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2012,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2012,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2012,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2012,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2012,S-WOMEN-PCT,unclear,,%,,,,Group,p48,Heidelberg Materials_2012_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",1,llm_agent,Share of women label present but values not alignable.
+Heidelberg Materials,2012,S-LTIFR,unclear,,rate,,,,Group,p48,Heidelberg Materials_2012_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",1,llm_agent,Safety key-figure values in pack lack labels/alignment. AR 2013 gives 2012 rate 3.4.
+Heidelberg Materials,2012,S-FATAL,unclear,,persons,,,,Group,p48,Heidelberg Materials_2012_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",1,llm_agent,Fatality count labels present but values not alignable.
+Heidelberg Materials,2012,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2012,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2012,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2012,FIN_REV,reported,14020,EUR m,"14,020",EUR million,Group turnover,Group,p9,Heidelberg Materials_2012_sustainability-report_EN.pdf,,"by 8.7% to EUR 14,020 million in business year 2012","LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,S-EMP,unclear,,persons,,,,Group,p168,Heidelberg Materials_2013_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only Group-area employee counts; not summed per spec.
+Heidelberg Materials,2013,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,S-LTIFR,reported,2.6,rate,2.6,,"Accidents with >=1 lost working day per 1,000,000 hours worked; Group employees only",Group,p99,Heidelberg Materials_2013_annual-report_EN.pdf,,Accident frequency rate 2) | 4.5 | 4.3 | 3.8 | 3.4 | 2.6 (2009-2013),"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,S-FATAL,unclear,,persons,,,,Group,p99,Heidelberg Materials_2013_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only fatality rate (1.1 per 10,000 employees), no count."
+Heidelberg Materials,2013,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2013,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,p29,Heidelberg Materials_2013_annual-report_EN.pdf,,currently the Supervisory Board only has one female member,"LLM (Claude agent), not human-checked",1,llm_agent,"One female Supervisory Board member stated, but board size not in pack."
+Heidelberg Materials,2013,FIN_REV,unclear,,EUR m,,,,Group,p168,Heidelberg Materials_2013_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only Group-area/business-line revenue in pack.
+Heidelberg Materials,2014,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,S-WOMEN-PCT,reported,13,%,13%,%,Women share of total Group workforce,Group,p36,Heidelberg Materials_2014_sustainability-report_EN.pdf,,In 2014 women accounted for 13% of the total workforce and 9% of senior managers in the Group,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,S-LTIFR,unclear,,rate,,,,Group,p47,Heidelberg Materials_2014_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only fatality rate 1.0 in 2014 pack. SR 2015 gives 2014 accident frequency 2.1.
+Heidelberg Materials,2014,S-FATAL,unclear,,persons,,,,Group,p47,Heidelberg Materials_2014_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only fatality rate (1.0), no count."
+Heidelberg Materials,2014,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2014,FIN_REV,unclear,,EUR m,,,,Group,p49,Heidelberg Materials_2014_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Key figure labels only, no values. SR 2015 gives 2014 turnover EUR 12,614m."
+Heidelberg Materials,2015,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2015,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2015,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2015,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2015,EN_TOT,unclear,,GJ,,,,Group,p52,Heidelberg Materials_2015_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Energy labels/units only (cement, aggregates TJ); no values."
+Heidelberg Materials,2015,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2015,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2015,WA_WD,unclear,,m3,44.0,million m3,,Cement business line,p54,Heidelberg Materials_2015_sustainability-report_EN.pdf,,Water management (cement) | Water withdrawal ... million m3 | 44.0 | 18.8 | 25.2,"LLM (Claude agent), not human-checked",1,llm_agent,Cement business line only (44.0 million m3) - partial scope.
+Heidelberg Materials,2015,WA_CONS,unclear,,m3,25.2,million m3,,Cement business line,p54,Heidelberg Materials_2015_sustainability-report_EN.pdf,,Water consumption (water extraction minus wastewater discharge) ... 44.0 | 18.8 | 25.2,"LLM (Claude agent), not human-checked",1,llm_agent,"Cement business line only (25.2 million m3, withdrawal minus discharge) - partial scope."
+Heidelberg Materials,2015,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2015,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2015,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2015,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2015,S-LTIFR,reported,2.1,rate,2.1,,"Accidents with >=1 lost working day per 1,000,000 hours worked; Group employees only",Group,p49,Heidelberg Materials_2015_sustainability-report_EN.pdf,,– Accident frequency in 2015: 2.1 (2014: 2.1).,"LLM (Claude agent), not human-checked",1,llm_agent,AR 2016 later adjusts 2015 rate to 2.3 (delayed reporting). Basis from definitions in other years' reports.
+Heidelberg Materials,2015,S-FATAL,unclear,,persons,,,,Group,p49,Heidelberg Materials_2015_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only fatality rate 1.7, no count."
+Heidelberg Materials,2015,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2015,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2015,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2015,FIN_REV,reported,13465,EUR m,"13,465",EUR million,Turnover,Group,p4,Heidelberg Materials_2015_sustainability-report_EN.pdf,,"Key figures for 2015 | 13,465 | million EUR of turnover | 2014: 12,614","LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,S-EMP,unclear,,persons,,,,Group,p186,Heidelberg Materials_2016_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only segment employee counts; not summed per spec.
+Heidelberg Materials,2016,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,S-LTIFR,reported,2.2,rate,2.2,,"Accidents with >=1 lost working day per 1,000,000 hours worked; Group employees only",Group,p106,Heidelberg Materials_2016_annual-report_EN.pdf,,Accident frequency rate 2) | 3.4 | 2.6 | 2.1 | 2.3 | 2.2 (2012-2016),"LLM (Claude agent), not human-checked",0,llm_agent,Includes Italcementi; excl. Italcementi 2.0.
+Heidelberg Materials,2016,S-FATAL,unclear,,persons,,,,Group,p106,Heidelberg Materials_2016_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Only fatality rate (0.7), no count."
+Heidelberg Materials,2016,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2016,FIN_REV,unclear,,EUR m,,,,Group,p186,Heidelberg Materials_2016_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Only Group-area/business-line revenue in pack.
+Heidelberg Materials,2017,GHG_S1,unclear,,tCO2e,74.4,million t,,Cement business line,p66,Heidelberg Materials_2017_sustainability-report_EN.pdf,,million t | million t | kg CO2/t | kg CO2/t | million t | TJ ... | 74.4 | 70.4 | 637.6 | 609.2 | 4.6,"LLM (Claude agent), not human-checked",1,llm_agent,Absolute gross CO2 74.4 Mt is cement business line only (GRI 305-1) - partial scope.
+Heidelberg Materials,2017,GHG_S2,unclear,,tCO2e,4.6,million t,,Cement business line,p66,Heidelberg Materials_2017_sustainability-report_EN.pdf,,– Indirect gross CO2 emissions ... 305-2 ... | 4.6,"LLM (Claude agent), not human-checked",1,llm_agent,"Indirect gross CO2 4.6 Mt, cement business line only; basis not stated."
+Heidelberg Materials,2017,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,EN_TOT,unclear,,GJ,"371,498 (cement); 8,109 (aggregates)",TJ,,Group,p66,Heidelberg Materials_2017_sustainability-report_EN.pdf,,"Absolute energy consumption: – Cement ... TJ | 371,498 | 315,595 | 8,109","LLM (Claude agent), not human-checked",1,llm_agent,"Business-line figures only (cement, aggregates); not summed per spec."
+Heidelberg Materials,2017,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,S-EMP,reported,59054,persons,"59,054",persons,People employed at end of 2017 (headcount),Group,p46,Heidelberg Materials_2017_sustainability-report_EN.pdf,,"59,054 | people were employed by | HeidelbergCement at the end | of 2017.","LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,S-LTIFR,unclear,,rate,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2017,FIN_REV,unclear,,EUR m,,,,Group,p64,Heidelberg Materials_2017_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,"Key figure labels only, no values."
+Heidelberg Materials,2018,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,S-LTIFR,reported,1.7,rate,1.7,,"Accidents with >=1 lost working day per 1,000,000 hours worked; Group employees only",Group,p76,Heidelberg Materials_2018_sustainability-report_EN.pdf,,Unit | 2018 | 2017 | 2016 | Accident frequency 2) ... | 1.7 | 1.0 | 70 | 44 | 0.4 | 0.4,"LLM (Claude agent), not human-checked",1,llm_agent,First value of table aligned to 'Accident frequency' 2018 (pattern verified against AR 2021 for 2019/2020).
+Heidelberg Materials,2018,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2018,FIN_REV,reported,18075,EUR m,"18,075",EUR million,Total Group revenue,Group,p69,Heidelberg Materials_2018_sustainability-report_EN.pdf,,"Total Group revenue ... € million ... | 18,075","LLM (Claude agent), not human-checked",1,llm_agent,Value is first number after the unit column; alignment inferred.
+Heidelberg Materials,2019,GHG_S1,unclear,,tCO2e,72.6 (cement) ; 0.48 (aggregates),million t,,Group,p82,Heidelberg Materials_2019_sustainability-report_EN.pdf,,"Absolute gross CO2 emissions (Scope 1) ... | 72.6 | 68.4 | 621.8 | 589.8 | 4,4 | 0.48 | 0.30","LLM (Claude agent), not human-checked",1,llm_agent,"Scope 1 given per business line only (cement 72.6 Mt, aggregates 0.48 Mt); no group total; not summed per spec."
+Heidelberg Materials,2019,GHG_S2,unclear,,tCO2e,4.4 (cement indirect); 0.30 (aggregates Scope 2),million t,,Group,p82,Heidelberg Materials_2019_sustainability-report_EN.pdf,,"Indirect CO2 emissions | 4,4 ... purchased electricity (Scope 2) | 0.30","LLM (Claude agent), not human-checked",1,llm_agent,Business-line figures only; no group total.
+Heidelberg Materials,2019,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2019,GHG_S3,unclear,,tCO2e,9.42; 3.89; 9.40,million t,,Group,p82,Heidelberg Materials_2019_sustainability-report_EN.pdf,,Scope 3: purchased goods and services 9.42 | purchased fuels 3.89 | transportation 9.40,"LLM (Claude agent), not human-checked",1,llm_agent,Only three Scope 3 categories; no total.
+Heidelberg Materials,2019,EN_TOT,unclear,,GJ,"363,607",TJ,,Group,p83,Heidelberg Materials_2019_sustainability-report_EN.pdf,,"Absolute energy consumption: – Cement ... TJ ... | 363,607","LLM (Claude agent), not human-checked",1,llm_agent,Cement business line only.
+Heidelberg Materials,2019,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2019,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2019,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2019,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2019,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2019,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2019,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2019,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2019,S-LTIFR,reported,1.5,rate,1.5,,"Accidents with >=1 lost working day per 1,000,000 hours worked; Group employees only",Group,p88,Heidelberg Materials_2019_sustainability-report_EN.pdf,,Unit | 2019 | 2018 | 2017 | Accident frequency 2) ... | 1.5 | 1.1 | 80 | 62 | 0.7 | 0.8,"LLM (Claude agent), not human-checked",1,llm_agent,Alignment inferred; matches AR 2021 (2019 LTIFR 1.5).
+Heidelberg Materials,2019,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2019,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2019,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2019,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2019,FIN_REV,reported,18851,EUR m,"18,851",EUR million,Total Group revenue,Group,p80,Heidelberg Materials_2019_sustainability-report_EN.pdf,,"Total Group revenue ... € million ... | 18,851","LLM (Claude agent), not human-checked",1,llm_agent,Value is first number after the unit column; alignment inferred.
+Heidelberg Materials,2020,GHG_S1,unclear,,tCO2e,68.0,million t,,Cement business line,p95,Heidelberg Materials_2020_sustainability-report_EN.pdf,,Cement business line: – Absolute gross CO2 emissions (Scope 1) ... | 68.0 | 63.6 | 610.7 | 576.0 | 7.1,"LLM (Claude agent), not human-checked",1,llm_agent,Cement business line only (68.0 Mt); aggregates Scope 1 not legible; no group total.
+Heidelberg Materials,2020,GHG_S2,unclear,,tCO2e,,,,Group,p95,Heidelberg Materials_2020_sustainability-report_EN.pdf,,,"LLM (Claude agent), not human-checked",1,llm_agent,Cement indirect CO2 (7.1?) only; no group Scope 2.
+Heidelberg Materials,2020,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,WA_WD,unclear,,m3,60.2,million m3,,Cement business line,p98,Heidelberg Materials_2020_sustainability-report_EN.pdf,,Water management (cement) ... Total water withdrawal ... million m3 | 60.2 | 15.7 | 29.1,"LLM (Claude agent), not human-checked",1,llm_agent,Cement business line only (60.2 million m3) - partial scope.
+Heidelberg Materials,2020,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,S-LTIFR,reported,1.6,rate,1.6,,"Accidents with >=1 lost working day per 1,000,000 hours worked; Group employees only",Group,p101,Heidelberg Materials_2020_sustainability-report_EN.pdf,,Unit | 2020 | 2019 | 2018 | Accident frequency 2) ... | 1.6 | 1.2 | 86 | 58 | 0.4 | 0.0,"LLM (Claude agent), not human-checked",1,llm_agent,Alignment inferred; matches AR 2021 (2020 LTIFR 1.6).
+Heidelberg Materials,2020,S-FATAL,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,G-BOARD-SIZE,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,G-BOARD-IND-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,G-BOARD-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2020,FIN_REV,reported,17606,EUR m,"17,606",EUR million,Total Group revenue,Group,p92,Heidelberg Materials_2020_sustainability-report_EN.pdf,,"Total Group revenue ... € million ... | 17,606 | 3,707 | 2,363","LLM (Claude agent), not human-checked",0,llm_agent,Consistent with narrative 'revenue ... €17.6 billion' (p35).
+Heidelberg Materials,2021,GHG_S1,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,GHG_S2,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,GHG_S2_MB,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,GHG_S3,unclear,,tCO2e,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,EN_TOT,unclear,,GJ,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,EN_ELEC,unclear,,kWh,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,EN_REN_PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,WA_WD,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,WA_CONS,unclear,,m3,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,E-WST-GEN,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,E-WST-HAZ,unclear,,MT,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,S-EMP,unclear,,persons,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,S-WOMEN-PCT,unclear,,%,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,S-LTIFR,reported,1.6,rate,1.6,,"Accidents with >=1 lost working day per 1,000,000 hours worked; Group employees only",Group,p63,Heidelberg Materials_2021_annual-report_EN.pdf,,Lost time injury frequency rate1) | 1.5 | 1.6 | 1.6 (2019|2020|2021),"LLM (Claude agent), not human-checked",0,llm_agent,Not found in the reading pack for this year.
+Heidelberg Materials,2021,S-FATAL,reported,1,persons,no fatalities among own employees; one external-company employee,,"Employees (0) + contractors (1), computed; third parties not mentioned",Group,p63,Heidelberg Materials_2021_annual-report_EN.pdf,,there were no (previous year: 2) fatalities among our own employees ... a (previous year: 3) fatal accident did occur ... employee from an external company,"LLM (Claude agent), not human-checked",1,llm_agent,Computed from narrative.
+Heidelberg Materials,2021,G-BOARD-SIZE,reported,12,persons,12 names listed,,Supervisory Board (6 shareholder + 6 employee representatives),Group,p89,Heidelberg Materials_2021_annual-report_EN.pdf,,Composition of the Supervisory Board | Shareholder representatives | Employee representatives | Fritz-Jürgen Heckmann (Chairman) ...,"LLM (Claude agent), not human-checked",1,llm_agent,Counted from member list; date of composition assumed year-end 2021.
+Heidelberg Materials,2021,G-BOARD-IND-PCT,unclear,,%,,,,Group,p89,Heidelberg Materials_2021_annual-report_EN.pdf,,,"LLM (Claude agent), not human-checked",0,llm_agent,Independence of members not stated in pack.
+Heidelberg Materials,2021,G-BOARD-WOMEN-PCT,reported,41.7,%,5 of 12,,"Computed 5/12 x100, Supervisory Board",Group,p89,Heidelberg Materials_2021_annual-report_EN.pdf,,Barbara Breuninger | Birgit Jochens | Dr Ines Ploss | Margret Suckale | Prof. Dr Marion Weissenberger-Eibl,"LLM (Claude agent), not human-checked",1,llm_agent,"Women identified from first names (Breuninger, Jochens, Ploss, Suckale, Weissenberger-Eibl); computed."
+Heidelberg Materials,2021,FIN_REV,unclear,,EUR m,,,,Group,,,,,"LLM (Claude agent), not human-checked",0,llm_agent,Group revenue not in 2021 pack.
