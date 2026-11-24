@@ -1,0 +1,17 @@
+# secrets
+.env
+# python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# node
+node_modules/
+# large data
+*.pdf
+data/raw/
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
